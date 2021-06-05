@@ -5,7 +5,7 @@ import numpy as np
 # https://www.kaggle.com/kingabzpro/daylio-mood-tracker
 
 # Leitura do csv
-raw = pd.read_csv('Daylio_Abid.csv')
+raw = pd.read_csv('data/Daylio_Abid.csv')
 # Remoção das colunas que não serão usadas
 raw.drop(['full_date', 'date', 'time', 'sub_mood'], axis=1, inplace=True)
 # Remoção das linhas com informação vazia
@@ -25,5 +25,5 @@ for i in np.arange(raw.shape[0]):
     raw.iloc[i]['activities'] = newA[:-1]
 activities = list(activities)
 
-raw.to_csv('preprocessed_data.csv')
+raw.to_csv('data/preprocessed_data.csv')
 
