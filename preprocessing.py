@@ -26,7 +26,14 @@ for i in np.arange(raw.shape[0]):
     for j in a:
         newA += j + "|"
     raw.iloc[i]['activities'] = newA[:-1]
+
 activities = list(activities)
+with open("data/activities.txt", 'w') as output:
+    activitiesString = ""
+    for a in activities:
+        activitiesString += a + "|"
+    activitiesString = activitiesString[:-1]
+    output.write(activitiesString)
 
 raw.to_csv('data/preprocessed_data_all.csv', index=False)
 
@@ -35,5 +42,5 @@ rand = sorted(random.sample(np.arange(raw.shape[0]).tolist(), k=100))
 training = raw.iloc[~raw.index.isin(rand)]
 training.to_csv('data/preprocessed_data_training.csv', index=False)
 testing = raw.iloc[rand]
-testing.to_csv('data/preprocessed_data_testing.csv', index=False)
+testing.to_csv('data/preprocessed_data_validation.csv', index=False)
 
