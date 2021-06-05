@@ -1,0 +1,6 @@
+*.pdf
+*.gdoc
+*.zip
+
+venv/
+__pycache__/

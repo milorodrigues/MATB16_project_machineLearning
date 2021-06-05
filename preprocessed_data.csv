@@ -1,0 +1,894 @@
+,weekday,activities,mood
+0,Friday,reading|Art|prayer|fasting|walk|meditation|shower|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|travel|cleaning|new things|power nap|Documentary|penpal|coding,Good
+1,Thursday,reading|learning|Art|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|shave|streaming|youtube|cooking|cleaning|research|new things|power nap|repair|Documentary|penpal|coding|Tutorial,Good
+2,Wednesday,reading|learning|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|designing|repair|Documentary|penpal|coding|Tutorial,Normal
+3,Tuesday,reading|learning|Art|prayer|fasting|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|shave|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Normal
+4,Monday,reading|learning|fasting|walk|meditation|shower|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Awful
+5,Sunday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Normal
+6,Saturday,reading|learning|prayer|walk|meditation|shower|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|travel|research|new things|power nap|penpal|coding|Tutorial,Good
+7,Friday,reading|learning|prayer|fasting|walk|meditation|shower|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|travel|new things|power nap|Email|Documentary|penpal|coding|Tutorial,Good
+8,Thursday,reading|learning|Art|meditation|shower|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Amazing
+9,Wednesday,reading|learning|fasting|walk|meditation|Audio books|writing|Watching series|good meal|reddit|trimming|streaming|youtube|cooking|cleaning|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+10,Tuesday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|Poetry|streaming|youtube|cooking|cleaning|new things|designing|penpal|coding|Tutorial,Good
+11,Monday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|trimming|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+12,Sunday,reading|Write dairy|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|yoga|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+13,Saturday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|travel|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+14,Friday,reading|learning|Art|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|Poetry|streaming|youtube|cooking|travel|cleaning|research|new things|power nap|designing|Documentary|penpal|coding|Tutorial,Amazing
+15,Thursday,reading|Art|prayer|fasting|walk|meditation|writing|Watching series|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+16,Wednesday,reading|learning|Art|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|Poetry|streaming|youtube|cooking|research|new things|songs|designing|Documentary|penpal|coding|Tutorial,Good
+17,Tuesday,reading|learning|Art|prayer|fasting|walk|meditation|Audio books|writing|Watching series|language learning|trimming|streaming|youtube|cooking|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Normal
+18,Monday,reading|learning|prayer|fasting|walk|meditation|shower|podcast|Audio books|writing|Watching series|reddit|language learning|streaming|youtube|cooking|travel|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Good
+19,Sunday,reading|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|jobs,Good
+20,Saturday,reading|Art|fasting|walk|meditation|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Good
+21,Friday,reading|learning|Art|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|repair|Documentary|penpal|coding|Tutorial,Amazing
+22,Thursday,reading|learning|Art|prayer|fasting|walk|meditation|shower|podcast|Audio books|writing|Watching series|good meal|reddit|language learning|shave|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Normal
+23,Wednesday,reading|learning|Art|prayer|fasting|walk|meditation|shower|podcast|Audio books|writing|Watching series|good meal|language learning|streaming|youtube|cooking|travel|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+24,Tuesday,reading|learning|Art|prayer|fasting|walk|meditation|shower|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+25,Monday,reading|learning|walk|meditation|shower|writing|Watching series|good meal|reddit|language learning|streaming|youtube|movies|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+26,Sunday,reading|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Normal
+27,Saturday,reading|learning|prayer|fasting|walk|meditation|shower|writing|Watching series|good meal|reddit|language learning|shave|streaming|youtube|cooking|travel|power nap|songs|Documentary|penpal|coding|Tutorial,Good
+28,Friday,reading|learning|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+29,Thursday,reading|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|movies|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Good
+30,Wednesday,reading|learning|prayer|fasting|Exercise|walk|meditation|shower|Audio books|writing|Watching series|News Update|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+31,Tuesday,reading|learning|Art|prayer|walk|meditation|shower|writing|Watching series|News Update|good meal|reddit|language learning|shave|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Normal
+32,Monday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|language learning|shave|streaming|youtube|cooking|new things|songs|Documentary|penpal|coding|Tutorial,Good
+33,Sunday,reading|learning|prayer|fasting|walk|meditation|podcast|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+34,Saturday,reading|learning|Write dairy|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|reddit|language learning|streaming|youtube|cooking|research|power nap|Documentary|penpal|coding|Tutorial,Good
+35,Friday,reading|learning|prayer|fasting|walk|meditation|podcast|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Good
+36,Thursday,reading|learning|Art|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|Email|Documentary|penpal|coding|Tutorial,Amazing
+37,Wednesday,reading|learning|Art|prayer|walk|meditation|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+38,Tuesday,learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|language learning|shave|streaming|youtube|cooking|cleaning|new things|power nap|penpal|coding|Tutorial,Good
+39,Monday,learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|power nap|Documentary|penpal|coding|Tutorial,Normal
+40,Sunday,learning|Art|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial,Good
+41,Saturday,reading|learning|Art|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|coding|Tutorial|love,Good
+42,Friday,prayer|walk|meditation|shower|Audio books|good meal|reddit|streaming|youtube|cooking|power nap|Email|Documentary|coding,Normal
+43,Thursday,Art|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|power nap|Documentary|coding|Tutorial,Good
+44,Wednesday,reading|Art|prayer|fasting|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|Documentary|coding|Tutorial|love,Good
+45,Tuesday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Good
+46,Monday,reading|learning|fasting|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|power nap|Documentary|coding|Tutorial,Awful
+47,Sunday,reading|learning|Art|fasting|walk|meditation|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|coding|love,Good
+48,Saturday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|Poetry|streaming|youtube|cooking|research|new things|songs|repair|penpal|coding|Tutorial|Recording,Good
+49,Friday,reading|learning|prayer|fasting|walk|meditation|Audio books|writing|Watching series|good meal|reddit|language learning|yoga|Poetry|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|repair|Documentary|penpal|coding|Tutorial|love,Good
+50,Thursday,reading|learning|Art|prayer|fasting|meditation|shower|podcast|Audio books|writing|Watching series|good meal|language learning|yoga|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial,Good
+51,Wednesday,reading|learning|prayer|fasting|Exercise|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|repair|Documentary|penpal|coding|Tutorial|love|Recording,Good
+52,Tuesday,reading|learning|fasting|walk|meditation|podcast|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Normal
+53,Monday,reading|learning|fasting|walk|shower|podcast|Audio books|writing|Watching series|good meal|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+54,Sunday,reading|learning|fasting|walk|shower|podcast|Audio books|writing|Watching series|good meal|reddit|language learning|yoga|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|designing|repair|Documentary|penpal|coding|Tutorial,Good
+55,Saturday,reading|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|designing|Documentary|penpal|coding|Tutorial,Normal
+56,Friday,reading|prayer|fasting|walk|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Amazing
+57,Thursday,learning|Art|prayer|fasting|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Normal
+58,Wednesday,reading|learning|fasting|shower|Audio books|Watching series|good meal|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Amazing
+59,Tuesday,reading|learning|walk|meditation|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary,Normal
+60,Monday,reading|learning|fasting|walk|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial,Amazing
+61,Sunday,reading|learning|fasting|walk|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Bad
+62,Saturday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|family|songs|Documentary|penpal|coding|Tutorial|love,Good
+63,Friday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|Watching series|reddit|language learning|streaming|youtube|cooking|cleaning|research|power nap|Email|Documentary|penpal|coding|Tutorial,Bad
+64,Thursday,reading|learning|fasting|walk|Audio books|Watching series|good meal|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Amazing
+65,Wednesday,reading|learning|fasting|Exercise|shower|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|power nap|Documentary|penpal|coding|Tutorial,Good
+66,Tuesday,reading|learning|fasting|walk|meditation|Audio books|writing|News Update|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+67,Monday,reading|learning|fasting|Exercise|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Good
+68,Sunday,reading|learning|fasting|walk|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|movies|cooking|cleaning|research|new things|power nap|songs|repair|Documentary|penpal|coding|Tutorial,Good
+69,Saturday,reading|learning|fasting|walk|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|power nap|Documentary|penpal|coding|Tutorial|love,Good
+70,Friday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|holotropic|research|new things|power nap|songs|repair|Documentary|penpal|coding|Tutorial,Good
+71,Thursday,reading|learning|fasting|walk|meditation|shower|writing|Watching series|News Update|language learning|youtube|movies|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Good
+72,Wednesday,reading|learning|fasting|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cooking|research|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial|love|Recording,Good
+73,Tuesday,reading|learning|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cooking|travel|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial|love,Amazing
+74,Monday,reading|prayer|fasting|Exercise|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|Poetry|streaming|youtube|movies|cooking|holotropic|travel|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Amazing
+75,Sunday,reading|learning|fasting|Audio books|writing|Watching series|language learning|yoga|shave|Poetry|streaming|youtube|movies|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Normal
+76,Saturday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|reddit|language learning|streaming|youtube|movies|cooking|cleaning|research|new things|power nap|Email|Documentary|penpal|coding|Tutorial,Good
+77,Friday,reading|learning|fasting|meditation|shower|writing|Watching series|reddit|language learning|streaming|youtube|movies|cooking|cleaning|research|new things|power nap|Documentary|penpal|party|coding|Tutorial,Normal
+78,Thursday,reading|learning|fasting|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+79,Wednesday,reading|learning|fasting|meditation|Audio books|Watching series|reddit|language learning|streaming|youtube|movies|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Good
+80,Tuesday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|movies|cooking|holotropic|research|new things|power nap|Documentary|penpal|coding|Tutorial,Amazing
+81,Monday,reading|learning|fasting|walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|shave|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Amazing
+82,Sunday,Write dairy|fasting|walk|meditation|shower|Audio books|writing|Watching series|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Good
+83,Saturday,reading|prayer|fasting|walk|Audio books|writing|Watching series|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+84,Friday,reading|learning|prayer|fasting|walk|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Awful
+85,Thursday,reading|learning|fasting|walk|meditation|shower|writing|Watching series|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+86,Wednesday,reading|learning|fasting|walk|shower|Audio books|writing|good meal|language learning|streaming|youtube|cooking|cleaning|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial,Good
+87,Tuesday,reading|learning|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Normal
+88,Monday,reading|prayer|fasting|meditation|shower|Dota 2|podcast|Audio books|writing|good meal|streaming|youtube|movies|cooking|cleaning|research|power nap|Documentary|penpal|coding|Tutorial,Good
+89,Sunday,learning|Art|fasting|meditation|shower|Audio books|writing|Watching series|reddit|language learning|streaming|youtube|cleaning|research|family|power nap|coding|love,Good
+90,Saturday,reading|prayer|fasting|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|travel|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+91,Friday,reading|learning|prayer|fasting|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|reddit|streaming|youtube|cooking|cleaning|research|power nap|Documentary|penpal|coding|Tutorial,Amazing
+92,Thursday,reading|learning|prayer|fasting|Exercise|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial|Recording,Good
+93,Wednesday,reading|prayer|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|repair|Documentary|penpal|coding|Tutorial,Normal
+94,Tuesday,learning|walk|streaming|youtube|cooking|research|new things|Documentary|coding,Amazing
+95,Monday,reading|fasting|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|yoga|streaming|youtube|cleaning|research|family|power nap|repair|Documentary|penpal|coding|Tutorial|love,Amazing
+96,Sunday,reading|learning|Art|prayer|fasting|meditation|shower|writing|Watching series|reddit|language learning|yoga|streaming|youtube|cooking|travel|cleaning|research|new things|family|power nap|songs|Documentary|penpal|coding,Good
+97,Saturday,reading|learning|Art|fasting|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Good
+98,Friday,reading|learning|prayer|fasting|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|yoga|streaming|youtube|movies|cooking|holotropic|travel|cleaning|research|new things|family|power nap|songs|designing|repair|Documentary|penpal|coding|Tutorial,Amazing
+99,Thursday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|Documentary|coding|Tutorial,Amazing
+100,Wednesday,reading|Art|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|repair|Documentary|penpal|coding|Tutorial|love,Good
+101,Tuesday,reading|learning|Art|fasting|walk|shower|Audio books|writing|good meal|reddit|language learning|streaming|youtube|movies|cooking|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Normal
+102,Monday,reading|learning|prayer|fasting|meditation|shower|Audio books|writing|Watching series|News Update|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|penpal|coding|Tutorial|love,Amazing
+103,Sunday,reading|prayer|fasting|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|Poetry|streaming|youtube|cooking|research|new things|family|Documentary|penpal|coding|Tutorial,Amazing
+104,Saturday,reading|learning|prayer|fasting|walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+105,Friday,reading|learning|Art|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cooking|cleaning|research|power nap|songs|repair|penpal|coding|Tutorial,Good
+106,Thursday,reading|learning|Art|prayer|fasting|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|cooking|cleaning|research|new things|power nap|repair|Documentary|penpal|coding|Tutorial,Amazing
+107,Wednesday,reading|learning|fasting|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|power nap|Documentary|penpal|coding|Tutorial|Recording,Normal
+108,Tuesday,reading|learning|prayer|fasting|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|repair|Documentary|penpal|coding|Tutorial|love,Good
+109,Monday,reading|fasting|shower|Audio books|writing|Watching series|language learning|streaming|youtube|cooking|travel|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+110,Sunday,reading|learning|prayer|fasting|walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Good
+111,Saturday,reading|learning|walk|Audio books|writing|Watching series|good meal|reddit|streaming|youtube|cooking|cleaning|research|power nap|designing|repair|penpal|coding|Tutorial,Normal
+112,Friday,reading|learning|prayer|fasting|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|cooking|travel|cleaning|new things|power nap|penpal,Good
+113,Thursday,reading|Art|fasting|walk|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial|love,Good
+114,Wednesday,reading|learning|prayer|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|repair|Documentary|penpal|coding|Tutorial|love,Good
+115,Tuesday,reading|learning|Art|fasting|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|travel|research|power nap|Documentary|penpal|coding|Tutorial|love,Good
+116,Monday,reading|learning|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+117,Sunday,reading|learning|Art|Write dairy|prayer|fasting|walk|shower|writing|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Good
+118,Saturday,reading|learning|fasting|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|penpal|party|coding|Tutorial|love,Good
+119,Friday,reading|learning|prayer|fasting|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|travel|research|new things|power nap|Documentary|penpal|coding|Tutorial,Awful
+120,Thursday,reading|learning|Art|fasting|shower|podcast|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|travel|research|new things|power nap|designing|Documentary|penpal|coding|Tutorial,Awful
+121,Wednesday,reading|learning|prayer|fasting|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|repair|penpal|coding|Tutorial|love,Good
+122,Tuesday,reading|fasting|Quran|walk|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|power nap|penpal|coding|Tutorial|love,Good
+123,Monday,reading|learning|fasting|walk|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Good
+124,Sunday,reading|learning|Art|prayer|fasting|walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|new things|power nap|penpal|coding|Tutorial,Good
+125,Saturday,learning|Art|walk|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|songs|penpal|coding|Tutorial,Bad
+126,Friday,learning|walk|Audio books|writing|Watching series|streaming|youtube|cleaning|research|new things|penpal|coding|Tutorial|love,Awful
+127,Thursday,reading|Art|prayer|fasting|walk|shower|Audio books|writing|Watching series|News Update|reddit|language learning|streaming|youtube|movies|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Good
+128,Wednesday,reading|Art|fasting|walk|shower|Watching series|News Update|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+129,Tuesday,reading|prayer|fasting|walk|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|travel|research|new things|penpal|coding|Tutorial,Bad
+130,Monday,reading|learning|Art|fasting|walk|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Good
+131,Sunday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|new things|power nap|songs|Documentary|penpal|coding|Tutorial|love,Bad
+132,Saturday,reading|learning|prayer|fasting|walk|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|songs|repair|Documentary|penpal|coding|Tutorial|love|Recording,Good
+133,Friday,reading|Art|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|travel|new things|power nap|songs|penpal|coding|Tutorial|love,Good
+134,Thursday,reading|learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial|love|Recording,Good
+135,Wednesday,reading|learning|Art|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Normal
+136,Tuesday,reading|learning|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Good
+137,Monday,reading|learning|Art|fasting|Quran|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Good
+138,Sunday,reading|fasting|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cooking|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Normal
+139,Saturday,reading|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|cooking|cleaning|research|power nap|songs|penpal|coding|Tutorial|love,Good
+140,Friday,learning|prayer|fasting|shower|Audio books|writing|Watching series|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|songs|penpal|coding|Tutorial|love,Normal
+141,Thursday,reading|prayer|fasting|meditation|shower|writing|reddit|language learning|streaming|youtube|cooking|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial|love,Good
+142,Wednesday,reading|Art|fasting|Audio books|writing|good meal|reddit|language learning|yoga|streaming|youtube|cooking|research|new things|power nap|repair|Documentary|penpal|coding|Tutorial|love,Good
+143,Tuesday,learning|prayer|fasting|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Good
+144,Monday,Art|fasting|shower|Audio books|writing|Watching series|good meal|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|penpal|coding|Tutorial|love|Recording,Good
+145,Sunday,reading|learning|fasting|walk|Audio books|writing|Watching series|News Update|reddit|language learning|streaming|youtube|cooking|travel|new things|power nap|designing|repair|Documentary|penpal|coding|Tutorial|jobs|love,Good
+146,Saturday,learning|Art|fasting|shower|Audio books|writing|Watching series|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+147,Friday,learning|Art|Write dairy|prayer|fasting|walk|shower|Dota 2|podcast|Audio books|writing|Watching series|good meal|reddit|yoga|Poetry|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial,Good
+148,Thursday,reading|Art|prayer|fasting|walk|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial,Amazing
+149,Wednesday,learning|prayer|fasting|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial|love,Amazing
+150,Wednesday,learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial|love,Good
+151,Tuesday,reading|walk|meditation|shower|Audio books|writing|Watching series|News Update|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|designing|repair|Documentary|penpal|coding|Tutorial|love|Recording,Good
+152,Monday,learning|Art|prayer|fasting|walk|meditation|shower|podcast|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|designing|repair|Documentary|penpal|coding|Tutorial|love|Recording,Good
+153,Sunday,learning|Art|fasting|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|cooking|cleaning|research|new things|power nap|Email|songs|repair|Documentary|penpal|coding|Tutorial|love,Good
+154,Saturday,learning|Art|fasting|walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|new things|power nap|songs|designing|repair|penpal|coding|Tutorial|love|Recording,Good
+155,Friday,learning|Art|prayer|fasting|walk|shower|Audio books|writing|Watching series|reddit|language learning|Poetry|streaming|youtube|cooking|holotropic|cleaning|research|new things|power nap|songs|designing|repair|Documentary|penpal|coding|Tutorial|jobs|Recording|weight log,Good
+156,Thursday,fasting|Audio books|writing|Watching series|good meal|reddit|language learning|yoga|streaming|youtube|cooking|research|power nap|songs|designing|repair|penpal|coding|Tutorial|jobs,Good
+157,Wednesday,learning|Art|prayer|fasting|walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|travel|research|new things|power nap|Email|songs|designing|Documentary|penpal|coding|Tutorial|love|Recording,Amazing
+158,Tuesday,Art|fasting|Quran|walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial|love|Recording,Good
+159,Monday,learning|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|shave|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|designing|repair|Documentary|penpal|coding|Tutorial,Good
+160,Sunday,learning|prayer|fasting|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|family|power nap|songs|penpal|coding|Tutorial|love,Good
+161,Saturday,learning|fasting|walk|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|designing|repair|Documentary|penpal|coding|Tutorial|love,Amazing
+162,Friday,learning|prayer|fasting|walk|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial|Recording,Good
+163,Thursday,reading|Art|fasting|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|designing|Documentary|penpal|coding|Tutorial|love,Good
+164,Wednesday,learning|Art|fasting|walk|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial|jobs|love|Recording,Good
+165,Tuesday,learning|Art|prayer|fasting|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial|love|Recording,Amazing
+166,Monday,learning|shower|podcast|Audio books|writing|News Update|good meal|reddit|language learning|streaming|youtube|movies|cooking|cleaning|research|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial|love|Recording,Amazing
+167,Sunday,learning|Art|fasting|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Email|designing|Documentary|penpal|coding|Tutorial,Good
+168,Saturday,fasting|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|songs|designing|Documentary|coding|Tutorial|love,Good
+169,Friday,learning|prayer|fasting|Exercise|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|research|power nap|designing|Documentary|coding|Tutorial|love,Good
+170,Thursday,reading|learning|fasting|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|coding|Tutorial,Good
+171,Wednesday,fasting|walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cooking|research|power nap|Documentary|coding|Tutorial|love|Recording,Good
+172,Tuesday,prayer|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|power nap|designing|repair|Documentary|coding|Tutorial|love|Recording,Good
+173,Monday,learning|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|Documentary|coding|Tutorial,Normal
+174,Sunday,learning|fasting|walk|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|coding|Tutorial,Good
+175,Saturday,learning|prayer|fasting|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cooking|cleaning|research|power nap|songs|penpal|coding|Tutorial|jobs,Good
+176,Friday,reading|learning|Art|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|Poetry|streaming|youtube|cooking|holotropic|cleaning|research|power nap|songs|Documentary|penpal|coding|Tutorial,Normal
+177,Thursday,learning|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Good
+178,Wednesday,learning|fasting|Exercise|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|power nap|songs|Documentary|coding|Tutorial,Good
+179,Tuesday,learning|fasting|walk|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|yoga|shave|trimming|Poetry|streaming|youtube|cooking|cleaning|research|new things|family|power nap|Email|Documentary|penpal|coding|Tutorial,Normal
+180,Monday,reading|learning|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|songs|Documentary|coding|Tutorial,Awful
+181,Sunday,fasting|Exercise|Quran|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|power nap|Email|coding|Tutorial,Good
+182,Saturday,prayer|fasting|Exercise|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|research|new things|Email|songs|repair|Documentary|penpal|coding|Tutorial,Good
+183,Friday,learning|Art|prayer|fasting|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Normal
+184,Thursday,learning|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+185,Wednesday,learning|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|Poetry|streaming|youtube|cooking|cleaning|research|new things|power nap|Email|songs|repair|penpal|coding|Tutorial,Good
+186,Tuesday,learning|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+187,Monday,learning|prayer|fasting|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Email|Documentary|penpal|coding|Tutorial,Good
+188,Sunday,learning|fasting|walk|meditation|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|penpal|coding|Tutorial,Normal
+189,Saturday,learning|fasting|walk|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|travel|research|power nap|Email|Documentary|penpal|coding|Tutorial,Bad
+190,Friday,learning|prayer|fasting|Exercise|Quran|walk|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Email|Documentary|penpal|coding|Tutorial,Bad
+191,Thursday,Art|fasting|walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Normal
+192,Wednesday,learning|Art|prayer|fasting|Quran|walk|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|travel|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Normal
+193,Tuesday,learning|Art|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cooking|cleaning|research|new things|power nap|Email|designing|Documentary|penpal|coding|Tutorial,Normal
+194,Monday,fasting|walk|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Email|songs|designing|Documentary|penpal|coding|Tutorial,Normal
+195,Sunday,learning|Art|Audio books|Watching series|News Update|good meal|reddit|language learning|Poetry|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial|love,Normal
+196,Saturday,learning|Art|fasting|walk|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|Documentary|penpal|coding|Tutorial,Normal
+197,Friday,learning|Art|prayer|fasting|Quran|walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|repair|penpal|coding|Tutorial,Normal
+198,Thursday,learning|Art|prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|Poetry|streaming|youtube|cooking|cleaning|research|power nap|songs|Documentary|penpal|coding|Tutorial|jobs,Good
+199,Wednesday,Art|fasting|walk|podcast|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|research|power nap|Documentary|penpal|coding|Tutorial,Normal
+200,Tuesday,Art|fasting|walk|Watching series|News Update|good meal|reddit|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Bad
+201,Monday,learning|Art|prayer|Quran|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|holotropic|cleaning|research|new things|power nap|songs|designing|Documentary|penpal|coding|Tutorial,Normal
+202,Sunday,prayer|fasting|Exercise|Quran|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+203,Saturday,reading|learning|prayer|fasting|Quran|walk|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|research|new things|power nap|repair|Documentary|penpal|coding|Tutorial,Good
+204,Friday,learning|Art|prayer|fasting|Exercise|Quran|walk|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|shave|streaming|youtube|cooking|research|new things|power nap|Email|songs|designing|penpal|coding|Tutorial|Recording,Bad
+205,Thursday,learning|prayer|fasting|Quran|walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|research|new things|penpal|coding|Tutorial,Awful
+206,Wednesday,learning|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|power nap|penpal|coding,Bad
+207,Tuesday,learning|Art|prayer|fasting|Quran|walk|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|penpal|coding|Tutorial,Normal
+208,Monday,learning|prayer|fasting|Quran|walk|meditation|shower|Audio books|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+209,Sunday,learning|prayer|fasting|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|power nap|songs|penpal|coding|Tutorial,Good
+210,Saturday,learning|prayer|fasting|Quran|walk|meditation|shower|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|songs|Documentary|penpal|coding|Tutorial,Normal
+211,Friday,learning|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|reddit|language learning|streaming|youtube|cooking|cleaning|research|new things|songs|Documentary|penpal|coding|Tutorial,Awful
+212,Thursday,reading|prayer|fasting|Quran|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|new things|songs|designing|penpal|coding|Tutorial|love,Good
+213,Wednesday,Art|prayer|fasting|walk|shower|Audio books|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|research|power nap|Documentary|coding|Tutorial|love,Awful
+214,Tuesday,learning|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|penpal|coding|Tutorial|love|Recording,Good
+215,Monday,Art|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|penpal|coding|Tutorial|Recording,Normal
+216,Sunday,learning|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|new things|power nap|Documentary|penpal|coding|Tutorial,Good
+217,Saturday,learning|Art|prayer|fasting|Quran|walk|meditation|podcast|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|research|songs|penpal|coding|Tutorial|Recording,Amazing
+218,Friday,learning|prayer|fasting|Quran|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|holotropic|cleaning|research|new things|Documentary|penpal|coding|Tutorial|Recording,Good
+219,Thursday,reading|learning|Art|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|yoga|shave|trimming|Poetry|streaming|youtube|cooking|holotropic|cleaning|research|new things|songs|Documentary|penpal|coding|Tutorial|Recording,Amazing
+220,Wednesday,learning|prayer|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|shave|Poetry|streaming|youtube|cooking|research|new things|family|Email|songs|Documentary|shopping|coding|Tutorial|Recording,Amazing
+221,Tuesday,learning|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|holotropic|new things|songs|penpal|coding|Tutorial|jobs|Recording,Amazing
+222,Monday,prayer|fasting|Quran|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|shave|streaming|youtube|cooking|cleaning|power nap|songs|Documentary|penpal|coding|Tutorial|jobs|Recording,Amazing
+223,Sunday,Art|fasting|Quran|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|holotropic|research|new things|power nap|Documentary|penpal|coding|Tutorial|Recording,Amazing
+224,Saturday,learning|Art|fasting|Quran|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|research|new things|power nap|Email|Documentary|penpal|coding|Tutorial|Recording,Good
+225,Friday,learning|Art|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|shave|streaming|youtube|cooking|holotropic|power nap|Documentary|penpal|coding|Tutorial|Recording,Good
+226,Thursday,Art|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|research|power nap|songs|Documentary|penpal|shopping|coding|Recording,Good
+227,Wednesday,reading|learning|Art|prayer|fasting|Quran|walk|meditation|shower|Watching series|News Update|good meal|reddit|language learning|shave|streaming|youtube|cooking|holotropic|family|power nap|songs|Documentary|penpal|shopping|coding|jobs|Recording,Normal
+228,Tuesday,walk|podcast|Audio books|good meal|language learning|streaming|cooking,Awful
+229,Tuesday,reading|learning|Art|fasting|Quran|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|power nap|songs|Documentary|penpal|coding|Tutorial|Recording,Good
+230,Monday,fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|travel|family|songs|penpal|coding|Tutorial|Recording,Normal
+231,Sunday,prayer|fasting|Quran|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|family|power nap|penpal|coding|love|Recording,Normal
+232,Saturday,learning|Art|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|travel|Documentary|coding|Recording,Bad
+233,Friday,prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cooking|family|power nap|penpal|coding|Recording,Awful
+234,Thursday,Art|prayer|Exercise|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|shave|Poetry|streaming|youtube|cooking|cleaning|new things|power nap|songs|Documentary|penpal|coding|Recording,Normal
+235,Wednesday,Art|meditation|shower|podcast|Audio books|writing|News Update|good meal|reddit|language learning|Poetry|streaming|youtube|research|family|Documentary|coding|Recording,Normal
+236,Tuesday,Art|fasting|Exercise|meditation|Audio books|writing|Watching series|reddit|language learning|streaming|youtube|power nap|Documentary|coding|Recording,Awful
+237,Monday,Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cleaning|new things|Documentary|coding|Recording|video editing,Normal
+238,Sunday,reading|Art|prayer|fasting|Exercise|Quran|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|research|new things|family|designing|Documentary|friends|penpal|coding|Tutorial|love|Recording,Good
+239,Saturday,reading|learning|prayer|fasting|Quran|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|power nap|Documentary|Tutorial|Recording,Normal
+240,Friday,reading|Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|Audio books|News Update|good meal|reddit|language learning|Poetry|streaming|youtube|songs|Documentary|shopping|coding|Tutorial|Recording,Good
+241,Thursday,reading|Art|prayer|fasting|Quran|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|songs|Documentary|Recording,Bad
+242,Wednesday,reading|Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|new things|family|Email|Documentary|jobs|Recording,Bad
+243,Wednesday,fasting|News Update|good meal|reddit|language learning|streaming|youtube|family|Documentary|love,Bad
+244,Tuesday,prayer|fasting|Quran|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|travel|friends|jobs|love,Awful
+245,Monday,prayer|fasting|Quran|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|power nap|Documentary|love,Normal
+246,Sunday,Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|research|Documentary,Awful
+247,Sunday,Art|fasting|meditation|podcast|Audio books|News Update|good meal|reddit|language learning|youtube|love,Awful
+248,Saturday,Art|walk|podcast|Audio books|Watching series|reddit|language learning|streaming|youtube,Bad
+249,Saturday,learning|prayer|Quran|walk|meditation|podcast|Audio books|Watching series|News Update|reddit|language learning|streaming|youtube|movies|songs|Documentary,Normal
+250,Saturday,learning|walk|shower|Audio books|writing|Watching series|News Update|reddit|language learning|youtube|power nap|Documentary|coding|Tutorial,Awful
+251,Friday,prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Watching series|News Update|good meal|reddit|language learning|shave|trimming|streaming|youtube|travel|family,Normal
+252,Thursday,Write dairy|prayer|fasting|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|love,Bad
+253,Wednesday,Art|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|research|new things|power nap|songs|Documentary|Tutorial|love,Normal
+254,Tuesday,reading|Art|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|Poetry|streaming|youtube|cleaning|power nap|songs|designing|Documentary|love,Normal
+255,Monday,reading|Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|shave|trimming|streaming|youtube|cleaning|power nap|songs|Documentary|love,Normal
+256,Sunday,reading|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|power nap|songs|love,Good
+257,Saturday,fasting|Quran|meditation|shower|Dota 2|podcast|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|Documentary|love,Good
+258,Friday,reading|learning|Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|gaming|new things|family|power nap|songs|designing|Documentary|love|Recording,Awful
+259,Thursday,Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|News Update|good meal|reddit|language learning|shave|streaming|youtube|research|family|power nap|songs|designing|love,Bad
+260,Wednesday,reading|learning|Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|research|family|power nap|songs|Documentary|love,Awful
+261,Tuesday,prayer|fasting|Exercise|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|research|power nap|songs|designing|Documentary,Bad
+262,Monday,Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|power nap|songs|designing|love,Good
+263,Sunday,reading|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|research|family|power nap|Documentary,Normal
+264,Saturday,Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cleaning|power nap|songs|designing|repair|Documentary|love,Normal
+265,Friday,reading|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cleaning|research|new things|power nap|songs|designing|Documentary|Tutorial|love|Recording,Good
+266,Thursday,reading|learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|research|songs|designing|Documentary|love,Normal
+267,Wednesday,Write dairy|prayer|Quran|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|shave|streaming|youtube|cleaning|research|power nap|songs,Awful
+268,Tuesday,learning|prayer|fasting|Quran|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|power nap|songs|designing|love,Good
+269,Monday,learning|Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|shave|trimming|streaming|youtube|cleaning|research|power nap|songs|love|kaballah,Good
+270,Sunday,Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|power nap|designing,Normal
+271,Saturday,learning|Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|research|power nap|songs|designing|Tutorial,Normal
+272,Friday,learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|research|power nap|designing,Normal
+273,Thursday,learning|Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|language learning|streaming|youtube|cleaning|research|Documentary|Tutorial|love,Amazing
+274,Wednesday,learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|research|new things|family|power nap|songs|designing|Tutorial|Recording,Good
+275,Tuesday,reading|learning|Write dairy|prayer|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|cleaning|research|new things|power nap|songs|designing,Good
+276,Monday,reading|learning|Art|Write dairy|prayer|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|research|new things|power nap|songs|designing|Documentary|Tutorial|love,Normal
+277,Sunday,learning|Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|power nap|songs|designing|love,Normal
+278,Saturday,reading|learning|Art|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|power nap|songs|Documentary|love,Good
+279,Friday,reading|learning|Art|prayer|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|new things|family|power nap|songs|designing|Documentary|Tutorial|love|Recording,Bad
+280,Thursday,learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|power nap|songs|designing|love|Recording,Good
+281,Wednesday,learning|Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|movies|power nap|songs|Documentary|love,Good
+282,Tuesday,reading|Art|prayer|Quran|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|shave|streaming|youtube|movies|research|new things|power nap|songs|Tutorial|love|weight log,Good
+283,Monday,Art|prayer|Quran|walk|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|love,Normal
+284,Sunday,Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|new things|family|power nap|songs|designing|penpal|love|Recording,Good
+285,Saturday,reading|learning|Art|Write dairy|prayer|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|shave|streaming|youtube|movies|cleaning|research|family|power nap|Email|designing|Documentary|Tutorial|love,Amazing
+286,Friday,reading|learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Dota 2|Audio books|writing|News Update|good meal|reddit|language learning|streaming|youtube|songs|love|Recording,Good
+287,Thursday,reading|learning|Art|Write dairy|prayer|Quran|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|research|family|power nap|songs|Documentary|Tutorial|love|Recording,Good
+288,Wednesday,reading|prayer|Quran|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|cleaning|family|power nap|songs,Good
+289,Tuesday,reading|prayer|fasting|Quran|walk|meditation|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|family|songs|love,Normal
+290,Monday,reading|prayer|walk|shower|Dota 2|podcast|Watching series|good meal|reddit|language learning|shave|trimming|streaming|youtube|power nap|Email|songs|love,Good
+291,Sunday,reading|Art|Write dairy|prayer|Quran|meditation|shower|Dota 2|podcast|Audio books|News Update|good meal|reddit|shave|trimming|streaming|youtube|power nap|love,Normal
+292,Saturday,reading|Art|prayer|Quran|walk|shower|Dota 2|Audio books|writing|News Update|good meal|reddit|streaming|youtube|phd|love,Awful
+293,Friday,reading|Art|prayer|Quran|walk|meditation|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|shave|trimming|streaming|youtube|cleaning|Email|songs|love,Normal
+294,Thursday,reading|learning|prayer|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|research|family|power nap|songs|Documentary|penpal,Good
+295,Wednesday,reading|learning|prayer|fasting|Quran|walk|meditation|shower|Dota 2|Audio books|writing|News Update|good meal|reddit|language learning|streaming|youtube|family|power nap|Email|songs|love,Good
+296,Tuesday,Art|prayer|fasting|walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|love,Good
+297,Monday,Art|walk|Audio books|News Update|good meal|reddit|streaming|youtube|songs|love,Normal
+298,Sunday,Write dairy|prayer|Quran|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|songs|love,Normal
+299,Saturday,reading|learning|Art|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|movies|family|power nap|songs|Documentary|Tutorial|love,Amazing
+300,Friday,reading|learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|research|family|power nap|songs|penpal|party|love|Recording|video editing,Normal
+301,Thursday,reading|learning|Art|prayer|fasting|Quran|walk|meditation|shower|News Update|good meal|reddit|language learning|streaming|youtube|power nap|Email|songs|love|Recording,Amazing
+302,Wednesday,reading|Art|Write dairy|prayer|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|cleaning|power nap|Email|songs|designing|friends|love,Good
+303,Tuesday,reading|learning|Art|Write dairy|prayer|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|research|Email|songs|Documentary|penpal|Tutorial|love|Recording,Normal
+304,Monday,reading|learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|yoga|streaming|youtube|research|family|Email|songs|Documentary|friends|penpal|Tutorial|love|Recording,Normal
+305,Sunday,reading|learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|family|songs|Documentary|shopping|Tutorial|Recording|video editing,Good
+306,Saturday,reading|prayer|fasting|Quran|walk|meditation|Audio books|News Update|good meal|reddit|streaming|youtube|family|power nap|songs|designing|Documentary|love,Normal
+307,Friday,reading|Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|Documentary|penpal|love,Amazing
+308,Thursday,reading|learning|Art|prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|News Update|good meal|reddit|language learning|streaming|youtube|research|new things|power nap|songs|friends|penpal|love,Good
+309,Wednesday,reading|prayer|fasting|Quran|walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|movies|cleaning|Email|songs|penpal|love,Good
+310,Tuesday,reading|learning|walk|meditation|Dota 2|writing|Watching series|good meal|reddit|language learning|streaming|youtube|power nap|songs|penpal|love,Good
+311,Monday,Art|walk|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|movies|research|new things|family|Documentary|penpal|love,Good
+312,Sunday,reading|walk|shower|Dota 2|writing|Watching series|News Update|good meal|reddit|streaming|youtube|movies|family|Documentary|friends|penpal|love,Amazing
+313,Saturday,walk|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|new things|power nap|songs|penpal,Amazing
+314,Friday,walk|shower|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|power nap|songs,Good
+315,Thursday,walk|meditation|shower|Audio books|writing|News Update|good meal|reddit|language learning|streaming|youtube|power nap|songs,Normal
+316,Wednesday,Art|Quran|walk|meditation|shower|writing|Watching series|good meal|reddit|language learning|streaming|youtube|power nap|songs|penpal,Good
+317,Tuesday,learning|walk|shower|Audio books|News Update|good meal|reddit|language learning|streaming|youtube|power nap|songs|penpal,Good
+318,Monday,walk|Watching series|good meal|reddit|language learning|streaming|youtube|family|songs|penpal,Normal
+319,Sunday,reading|Art|Write dairy|walk|shower|podcast|writing|News Update|good meal|reddit|language learning|streaming|youtube|power nap|songs|penpal,Bad
+320,Saturday,reading|prayer|walk|Watching series|good meal|reddit|language learning|streaming|youtube|songs|penpal,Normal
+321,Friday,Art|fasting|good meal|reddit|language learning|streaming|youtube|power nap|songs|designing|penpal,Normal
+322,Thursday,fasting|walk|meditation|shower|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|power nap|penpal,Normal
+323,Wednesday,Art|walk|shower|Audio books|writing|good meal|reddit|streaming|youtube|power nap|songs|penpal,Normal
+324,Tuesday,Art|fasting|Dota 2|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|penpal,Bad
+325,Monday,learning|Write dairy|prayer|Quran|walk|meditation|shower|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|power nap|songs,Good
+326,Sunday,reading|Write dairy|prayer|fasting|Quran|walk|meditation|shower|writing|Watching series|News Update|good meal|language learning|streaming|youtube|power nap|songs,Normal
+327,Saturday,learning|prayer|fasting|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|good meal|reddit|language learning|streaming|youtube|songs,Normal
+328,Friday,learning|Write dairy|fasting|walk|shower|Audio books|good meal|reddit|streaming|youtube|power nap|songs|penpal,Normal
+329,Thursday,learning|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|new things|power nap|songs|penpal,Good
+330,Wednesday,prayer|shower|podcast|Audio books|News Update|good meal|reddit|streaming|youtube|songs,Amazing
+331,Tuesday,reading|learning|Art|prayer|Quran|walk|meditation|shower|writing|Watching series|good meal|reddit|language learning|streaming|youtube|new things|Email|songs|designing|penpal,Amazing
+332,Monday,reading|learning|Art|Write dairy|prayer|Quran|walk|meditation|shower|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|new things|songs|penpal,Amazing
+333,Sunday,prayer|shower|News Update|good meal|reddit|streaming|youtube|new things|songs,Amazing
+334,Saturday,reading|learning|Art|prayer|fasting|Quran|walk|meditation|shower|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|new things|power nap|songs,Good
+335,Friday,prayer|Quran|walk|shower|good meal|streaming|youtube,Good
+336,Thursday,reading|learning|Art|Write dairy|prayer|fasting|Quran|meditation|shower|Audio books|writing|News Update|good meal|reddit|language learning|streaming|youtube|research|new things|power nap|songs|penpal|weight log,Normal
+337,Wednesday,reading|learning|Art|prayer|fasting|Exercise|Quran|walk|meditation|shower|podcast|Audio books|writing|News Update|good meal|reddit|language learning|streaming|youtube|research|power nap|Email|songs,Awful
+338,Tuesday,reading|learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|research|new things|family|songs|designing|weight log,Bad
+339,Monday,learning|Art|prayer|fasting|Exercise|Quran|walk|meditation|shower|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|new things|songs|Tutorial,Amazing
+340,Sunday,reading|learning|Art|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|research|new things|power nap|Email|songs,Amazing
+341,Saturday,reading|learning|Art|prayer|fasting|Exercise|Quran|walk|meditation|shower|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|power nap|songs,Amazing
+342,Friday,reading|learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|songs|Tutorial,Good
+343,Thursday,reading|learning|Art|Write dairy|prayer|fasting|Exercise|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|power nap|songs|designing|Tutorial|weight log,Amazing
+344,Wednesday,reading|learning|Art|Write dairy|prayer|fasting|Exercise|Quran|walk|meditation|shower|Audio books|writing|News Update|good meal|reddit|language learning|streaming|youtube|new things|songs|Tutorial|weight log,Amazing
+345,Tuesday,reading|learning|Art|Write dairy|prayer|fasting|Exercise|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|language learning|streaming|youtube|new things|family|Email|songs|Tutorial|weight log,Amazing
+346,Monday,reading|learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|movies|new things|family|power nap|Email|songs|designing|Tutorial,Amazing
+347,Sunday,reading|learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|News Update|good meal|reddit|streaming|youtube|new things|Email|songs|Tutorial|weight log,Amazing
+348,Saturday,reading|learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|News Update|good meal|reddit|streaming|youtube|research|new things|songs|Tutorial,Good
+349,Friday,reading|learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|News Update|good meal|reddit|language learning|streaming|youtube|movies|research|new things|Email|songs|designing|Tutorial|weight log,Amazing
+350,Thursday,reading|learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|News Update|good meal|reddit|streaming|youtube|research|power nap|songs|designing,Amazing
+351,Wednesday,learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|News Update|good meal|reddit|streaming|youtube|power nap|songs,Amazing
+352,Tuesday,learning|Art|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|News Update|good meal|reddit|streaming|youtube|power nap|songs,Good
+353,Monday,reading|learning|Art|prayer|fasting|Quran|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|new things|power nap|songs,Good
+354,Sunday,prayer|fasting|Quran|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs,Normal
+355,Saturday,reading|learning|prayer|fasting|Quran|walk|meditation|shower|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs,Amazing
+356,Friday,reading|learning|prayer|fasting|Quran|walk|meditation|podcast|Audio books|Watching series|good meal|reddit|streaming|youtube|power nap|songs|designing,Good
+357,Thursday,reading|learning|prayer|fasting|Quran|walk|meditation|Audio books|News Update|good meal|reddit|streaming|youtube|research|new things|songs,Good
+358,Wednesday,reading|learning|prayer|fasting|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|family|power nap|songs|designing,Normal
+359,Tuesday,reading|learning|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|designing|penpal|weight log,Good
+360,Monday,reading|learning|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs,Amazing
+361,Sunday,reading|learning|Write dairy|prayer|fasting|Quran|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|cleaning|research|new things|power nap|songs,Amazing
+362,Saturday,Write dairy|prayer|fasting|Quran|walk|meditation|shower|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|designing|penpal,Good
+363,Friday,walk|Watching series|News Update|good meal|reddit|streaming|youtube|songs|penpal,Good
+364,Thursday,prayer|fasting|walk|meditation|shower|Dota 2|writing|Watching series|News Update|good meal|reddit|streaming|youtube|songs|designing|penpal,Amazing
+365,Wednesday,Art|prayer|Quran|walk|meditation|shower|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|designing|penpal,Bad
+366,Tuesday,prayer|fasting|Quran|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+367,Monday,prayer|Quran|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Good
+368,Sunday,prayer|walk|meditation|shower|Dota 2|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Normal
+369,Saturday,prayer|Quran|walk|meditation|shower|Dota 2|podcast|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|designing|penpal,Good
+370,Friday,prayer|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Good
+371,Thursday,prayer|walk|meditation|shower|Dota 2|Watching series|News Update|good meal|reddit|streaming|youtube|family|power nap|songs|penpal|weight log,Amazing
+372,Wednesday,prayer|fasting|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+373,Tuesday,Art|prayer|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|new things|power nap|songs|penpal,Amazing
+374,Monday,prayer|fasting|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|new things|songs|penpal,Amazing
+375,Sunday,prayer|walk|meditation|shower|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Good
+376,Saturday,walk|Watching series|News Update|good meal|reddit|streaming|youtube|songs|penpal,Normal
+377,Friday,Art|prayer|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal|keto,Good
+378,Thursday,prayer|fasting|Quran|walk|meditation|shower|writing|Watching series|News Update|good meal|reddit|streaming|youtube|movies|family|power nap|songs|designing|penpal,Awful
+379,Wednesday,prayer|fasting|Exercise|Quran|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|family|power nap|songs|penpal,Amazing
+380,Tuesday,Art|Write dairy|prayer|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|cleaning|family|power nap|songs|penpal,Normal
+381,Monday,Art|prayer|walk|meditation|shower|Dota 2|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|designing|penpal,Good
+382,Sunday,Art|fasting|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|cleaning|power nap|songs|penpal,Amazing
+383,Saturday,Art|prayer|walk|meditation|shower|writing|Watching series|News Update|good meal|reddit|streaming|youtube|cleaning|power nap|songs,Amazing
+384,Friday,prayer|shower|Dota 2|Audio books|writing|Watching series|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+385,Thursday,prayer|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|cleaning|power nap|songs|penpal|weight log,Amazing
+386,Wednesday,Art|prayer|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+387,Tuesday,fasting|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+388,Monday,prayer|walk|meditation|shower|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Good
+389,Sunday,prayer|fasting|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+390,Saturday,prayer|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|phd,Amazing
+391,Friday,prayer|fasting|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+392,Thursday,prayer|fasting|walk|meditation|shower|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal|weight log,Amazing
+393,Wednesday,prayer|fasting|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal|weight log,Amazing
+394,Tuesday,prayer|walk|meditation|Dota 2|podcast|Audio books|News Update|good meal|reddit|streaming|youtube|power nap|songs|designing|penpal,Amazing
+395,Monday,prayer|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+396,Sunday,prayer|fasting|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|family|power nap|songs,Amazing
+397,Saturday,prayer|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+398,Friday,walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube,Normal
+399,Thursday,prayer|walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal|keto,Amazing
+400,Wednesday,prayer|fasting|Quran|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+401,Tuesday,prayer|fasting|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal|weight log,Amazing
+402,Monday,prayer|fasting|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|designing|penpal,Amazing
+403,Sunday,prayer|fasting|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+404,Saturday,Art|prayer|fasting|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|phd,Amazing
+405,Friday,Art|prayer|walk|meditation|shower|Dota 2|podcast|Audio books|News Update|good meal|reddit|streaming|youtube|songs|penpal,Amazing
+406,Thursday,fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|songs|penpal,Amazing
+407,Wednesday,prayer|fasting|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+408,Tuesday,Art|prayer|fasting|walk|meditation|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal|keto,Amazing
+409,Monday,Write dairy|prayer|fasting|walk|meditation|shower|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+410,Sunday,Art|prayer|fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|songs|designing|penpal,Amazing
+411,Saturday,prayer|fasting|walk|meditation|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|songs|penpal,Amazing
+412,Friday,prayer|fasting|walk|meditation|shower|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+413,Thursday,Art|prayer|fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|family|power nap|songs|penpal|weight log,Amazing
+414,Wednesday,fasting|walk|meditation|shower|Dota 2|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|Email|songs|penpal,Amazing
+415,Tuesday,prayer|fasting|walk|meditation|shower|Dota 2|Watching series|News Update|good meal|reddit|streaming|youtube|family|power nap|songs|penpal|weight log,Amazing
+416,Monday,prayer|fasting|Quran|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|friends|penpal|keto,Amazing
+417,Sunday,prayer|fasting|walk|meditation|shower|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal|keto,Amazing
+418,Saturday,prayer|walk|meditation|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal,Amazing
+419,Friday,Art|prayer|fasting|walk|meditation|Dota 2|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|designing|penpal|keto,Amazing
+420,Thursday,Art|prayer|fasting|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|designing|keto|weight log,Amazing
+421,Wednesday,prayer|fasting|walk|meditation|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|songs|penpal|keto|weight log,Good
+422,Tuesday,prayer|walk|meditation|Dota 2|podcast|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|weight log,Amazing
+423,Monday,prayer|walk|meditation|shower|Watching series|News Update|good meal|reddit|streaming|youtube|songs,Normal
+424,Sunday,prayer|fasting|walk|meditation|shower|Dota 2|podcast|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|penpal|keto|weight log,Amazing
+425,Saturday,prayer|fasting|walk|meditation|shower|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal|keto,Amazing
+426,Friday,prayer|fasting|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|keto|weight log,Amazing
+427,Thursday,Art|Write dairy|prayer|fasting|walk|meditation|shower|Dota 2|Audio books|News Update|good meal|reddit|streaming|youtube|movies|power nap,Amazing
+428,Wednesday,Art|prayer|walk|meditation|shower|Dota 2|writing|News Update|reddit|streaming|youtube|penpal,Good
+429,Tuesday,prayer|walk|meditation|shower|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|research|songs|designing|penpal|keto,Good
+430,Monday,prayer|fasting|walk|meditation|Audio books|News Update|good meal|reddit|streaming|youtube|penpal|keto,Good
+431,Sunday,prayer|fasting|walk|meditation|shower|Audio books|News Update|good meal|reddit|streaming|youtube,Amazing
+432,Saturday,fasting|walk|meditation|podcast|Watching series|News Update|good meal|reddit|streaming|youtube|keto,Amazing
+433,Friday,prayer|fasting|Quran|walk|meditation|shower|Dota 2|podcast|writing|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|keto,Amazing
+434,Thursday,fasting|walk|meditation|Watching series|News Update|good meal|reddit|streaming|youtube|penpal|keto|weight log,Good
+435,Wednesday,fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|reddit|streaming|youtube|power nap|penpal,Amazing
+436,Tuesday,fasting|walk|meditation|shower|Dota 2|Watching series|News Update|good meal|reddit|streaming|youtube|penpal|weight log,Amazing
+437,Monday,walk|meditation|Dota 2|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|songs|penpal|keto,Amazing
+438,Sunday,fasting|walk|meditation|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|penpal|keto,Good
+439,Saturday,fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|movies|penpal,Good
+440,Friday,prayer|fasting|walk|meditation|shower|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|friends|penpal|keto,Normal
+441,Thursday,Write dairy|fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|movies|friends|penpal,Good
+442,Wednesday,fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|penpal|keto,Good
+443,Tuesday,fasting|walk|meditation|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|penpal,Good
+444,Monday,fasting|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|movies|songs|penpal|keto,Awful
+445,Sunday,fasting|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|songs|penpal|keto,Good
+446,Saturday,fasting|walk|meditation|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto,Good
+447,Friday,prayer|fasting|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube,Good
+448,Thursday,Write dairy|fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|cleaning|new things|penpal|keto|weight log,Good
+449,Wednesday,fasting|walk|meditation|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto|weight log,Amazing
+450,Tuesday,fasting|walk|meditation|shower|Dota 2|Audio books|News Update|good meal|reddit|streaming|youtube|keto,Good
+451,Monday,fasting|walk|meditation|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto,Good
+452,Sunday,fasting|walk|meditation|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|keto|weight log,Good
+453,Saturday,prayer|fasting|walk|meditation|shower|Audio books|Watching series|News Update|reddit|streaming|youtube|keto,Good
+454,Friday,fasting|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|gaming|keto,Good
+455,Thursday,fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|weight log,Good
+456,Wednesday,walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap,Normal
+457,Tuesday,fasting|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto,Good
+458,Monday,fasting|walk|meditation|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube,Amazing
+459,Sunday,fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|streaming|youtube|keto,Amazing
+460,Saturday,fasting|walk|meditation|podcast|Audio books|Watching series|good meal|reddit|streaming|youtube|keto,Amazing
+461,Friday,prayer|fasting|walk|meditation|shower|podcast|Watching series|News Update|good meal|reddit|streaming|youtube|keto|weight log,Good
+462,Thursday,fasting|walk|meditation|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|new things|songs|keto|weight log,Good
+463,Wednesday,fasting|walk|meditation|Dota 2|podcast|Audio books|Watching series|News Update|reddit|streaming|youtube,Normal
+464,Tuesday,fasting|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto,Good
+465,Monday,fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|reddit|streaming|youtube,Amazing
+466,Sunday,fasting|walk|meditation|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube,Good
+467,Saturday,fasting|walk|meditation|Dota 2|podcast|Audio books|News Update|good meal|reddit|streaming|youtube|power nap|keto,Good
+468,Friday,prayer|fasting|walk|meditation|shower|Dota 2|podcast|Audio books|News Update|good meal|reddit|streaming|youtube|keto|weight log,Amazing
+469,Thursday,fasting|walk|meditation|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|keto,Good
+470,Wednesday,reading|fasting|walk|meditation|shower|Audio books|News Update|good meal|reddit|streaming|youtube|keto|weight log,Amazing
+471,Tuesday,reading|Art|fasting|walk|meditation|Dota 2|Audio books|good meal|reddit|streaming|youtube|gaming|keto,Amazing
+472,Monday,reading|Art|Write dairy|fasting|walk|meditation|Dota 2|Audio books|News Update|good meal|reddit|streaming|youtube|new things|songs,Good
+473,Sunday,fasting|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|good meal|streaming|youtube|keto|weight log,Good
+474,Saturday,reading|fasting|walk|meditation|Dota 2|podcast|Audio books|Watching series|News Update|reddit|streaming|youtube|keto,Amazing
+475,Friday,prayer|fasting|walk|meditation|shower|Dota 2|podcast|Audio books|Watching series|good meal|streaming|youtube|research|keto|weight log,Good
+476,Thursday,reading|fasting|walk|meditation|Dota 2|podcast|Audio books|Watching series|good meal|streaming|youtube|research|keto,Good
+477,Wednesday,fasting|walk|meditation|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto,Amazing
+478,Tuesday,reading|fasting|walk|meditation|shower|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|research|keto|weight log,Amazing
+479,Monday,fasting|walk|meditation|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto,Amazing
+480,Sunday,fasting|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto,Good
+481,Saturday,fasting|walk|meditation|shower|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|movies|keto|weight log,Good
+482,Friday,fasting|walk|meditation|shower|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|movies|research|keto|weight log,Amazing
+483,Thursday,Write dairy|fasting|walk|meditation|podcast|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|youtube|movies|research|power nap|keto,Good
+484,Wednesday,fasting|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto,Amazing
+485,Tuesday,fasting|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto|weight log,Good
+486,Monday,fasting|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|keto,Amazing
+487,Sunday,fasting|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|research|keto,Amazing
+488,Saturday,fasting|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto,Amazing
+489,Friday,prayer|fasting|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|reddit|streaming|youtube|power nap|keto|weight log,Good
+490,Thursday,fasting|walk|meditation|shower|Dota 2|Audio books|News Update|good meal|reddit|streaming|youtube|keto|weight log,Good
+491,Wednesday,fasting|walk|meditation|Audio books|reddit|streaming|youtube|keto,Good
+492,Tuesday,fasting|walk|meditation|Audio books|News Update|reddit|streaming|youtube|movies|keto,Good
+493,Monday,prayer|fasting|walk|meditation|shower|Audio books|Watching series|News Update|reddit|streaming|youtube|movies|cleaning|power nap|songs,Good
+494,Sunday,fasting|Exercise|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto|weight log,Amazing
+495,Saturday,fasting|Exercise|walk|meditation|Audio books|Watching series|News Update|reddit|streaming|youtube|keto|weight log,Amazing
+496,Friday,reading|prayer|fasting|Exercise|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto,Amazing
+497,Thursday,fasting|Exercise|walk|meditation|Audio books|writing|Watching series|reddit|streaming|youtube|cleaning|new things|songs|penpal|coding|keto|weight log,Good
+498,Wednesday,fasting|walk|meditation|Dota 2|Audio books|writing|Watching series|reddit|streaming|youtube|movies|power nap|keto|weight log,Good
+499,Tuesday,reading|fasting|walk|meditation|podcast|Audio books|News Update|good meal|reddit|streaming|youtube|family|keto|weight log,Amazing
+500,Monday,fasting|walk|meditation|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|keto|weight log,Good
+501,Sunday,fasting|walk|meditation|shower|Audio books|Watching series|good meal|reddit|streaming|youtube|research|power nap|keto,Good
+502,Saturday,fasting|walk|meditation|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|keto,Good
+503,Friday,fasting|walk|meditation|shower|Dota 2|Audio books|Watching series|News Update|reddit|streaming|youtube|keto,Good
+504,Thursday,fasting|walk|meditation|Audio books|Watching series|News Update|reddit|streaming|youtube|keto,Amazing
+505,Wednesday,fasting|walk|meditation|Audio books|Watching series|reddit|streaming|youtube|keto,Good
+506,Tuesday,fasting|walk|meditation|shower|Audio books|Watching series|good meal|reddit|streaming|youtube|travel|power nap|keto|weight log,Amazing
+507,Monday,fasting|walk|meditation|podcast|Audio books|writing|Watching series|good meal|reddit|streaming|youtube|Email|keto,Amazing
+508,Sunday,fasting|walk|meditation|Audio books|Watching series|reddit|streaming|youtube|travel,Good
+509,Saturday,fasting|walk|meditation|Dota 2|Audio books|Watching series|reddit|streaming|youtube|keto,Good
+510,Friday,fasting|walk|meditation|shower|Audio books|Watching series|News Update|reddit|streaming|youtube|keto,Good
+511,Thursday,fasting|walk|meditation|Audio books|Watching series|good meal|reddit|streaming|youtube|keto,Good
+512,Wednesday,fasting|walk|meditation|Audio books|Watching series|reddit|streaming|youtube|keto,Good
+513,Tuesday,fasting|walk|meditation|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|songs|keto,Good
+514,Monday,fasting|walk|meditation|shower|Audio books|good meal|reddit|streaming|youtube|keto|weight log,Good
+515,Sunday,fasting|walk|meditation|Audio books|good meal|reddit|streaming|youtube|keto|weight log,Good
+516,Saturday,fasting|walk|meditation|Audio books|Watching series|good meal|reddit|streaming|youtube|keto|weight log,Good
+517,Friday,prayer|fasting|walk|meditation|shower|Audio books|Watching series|News Update|reddit|youtube|keto|weight log,Normal
+518,Thursday,fasting|walk|meditation|good meal|reddit|streaming|youtube|keto|weight log,Good
+519,Wednesday,prayer|fasting|meditation|shower|Audio books|Watching series|News Update|reddit|streaming|youtube|keto|weight log,Good
+520,Tuesday,reading|fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|reddit|streaming|youtube|keto|weight log,Good
+521,Monday,prayer|fasting|walk|meditation|shower|Audio books|writing|News Update|good meal|reddit|streaming|youtube|power nap|songs|keto|weight log,Normal
+522,Sunday,fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|youtube|keto|weight log,Good
+523,Saturday,prayer|fasting|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|hiking|keto|weight log,Good
+524,Friday,fasting|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|youtube|keto|weight log,Good
+525,Thursday,fasting|walk|meditation|shower|Dota 2|Audio books|writing|Watching series|News Update|good meal|reddit|streaming|kaballah|keto|weight log,Good
+526,Wednesday,prayer|fasting|walk|meditation|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|movies|kaballah|keto|weight log,Normal
+527,Tuesday,prayer|fasting|walk|meditation|shower|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|new things|coding|kaballah|keto|weight log,Good
+528,Monday,Write dairy|fasting|walk|meditation|podcast|Audio books|News Update|streaming|youtube|new things|power nap|coding|kaballah|keto,Good
+529,Sunday,fasting|walk|meditation|Watching series|News Update|good meal|reddit|streaming|youtube|travel|family|hiking|kaballah|keto|weight log,Good
+530,Saturday,Write dairy|prayer|fasting|walk|meditation|podcast|Audio books|News Update|good meal|reddit|youtube|kaballah|keto|weight log,Good
+531,Friday,prayer|fasting|walk|meditation|podcast|Audio books|Watching series|News Update|reddit|streaming|youtube|kaballah|keto|weight log,Normal
+532,Thursday,Write dairy|prayer|fasting|walk|meditation|Audio books|Watching series|reddit|streaming|youtube|kaballah|keto|weight log,Good
+533,Wednesday,Write dairy|prayer|fasting|walk|meditation|podcast|Audio books|Watching series|News Update|reddit|streaming|youtube|songs|kaballah|keto|weight log,Amazing
+534,Tuesday,prayer|fasting|walk|meditation|Dota 2|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|power nap|kaballah|keto|weight log,Good
+535,Monday,fasting|walk|meditation|shower|Audio books|Watching series|News Update|good meal|reddit|youtube|new things|keto|weight log,Good
+536,Sunday,fasting|walk|meditation|Audio books|Watching series|good meal|streaming|youtube|power nap,Amazing
+537,Saturday,fasting|walk|meditation|podcast|Audio books|good meal|streaming|youtube|research|new things,Good
+538,Friday,prayer|fasting|walk|meditation|shower|Dota 2|News Update|good meal|reddit|streaming|youtube|travel|hiking,Amazing
+539,Thursday,fasting|walk|meditation|Dota 2|podcast|Watching series|good meal|streaming|youtube|power nap,Good
+540,Thursday,fasting|walk|meditation|Dota 2|podcast|Audio books|writing|Watching series|News Update|reddit|designing,Good
+541,Wednesday,fasting|walk|meditation|shower|Dota 2|podcast|News Update|good meal|reddit|streaming|youtube|Email|weight log,Good
+542,Tuesday,fasting|walk|meditation|Dota 2|News Update|good meal|reddit|power nap,Good
+543,Monday,reading|Write dairy|fasting|walk|meditation|Dota 2|podcast|reddit|youtube|gaming|Email|penpal,Good
+544,Friday,prayer|fasting|shower|Audio books|News Update|reddit|weight log,Normal
+545,Thursday,fasting|meditation|News Update|reddit|youtube|research,Normal
+546,Wednesday,Write dairy|fasting|meditation|Dota 2|News Update,Normal
+547,Tuesday,Art|fasting|meditation|News Update|reddit|designing,Normal
+548,Saturday,good meal|reddit|streaming|youtube|gaming|songs|penpal,Good
+549,Friday,prayer|fasting|meditation|shower|Watching series|reddit|streaming|youtube|movies|penpal,Good
+550,Thursday,reading|fasting|meditation|shower|podcast|Watching series|reddit|songs|penpal|weight log,Good
+551,Friday,prayer|fasting|walk|shower|podcast|Audio books|Watching series|News Update|reddit|youtube|movies|Email|penpal|weight log,Normal
+552,Thursday,reading|prayer|fasting|shower|podcast|Watching series|News Update|streaming|youtube|research|penpal|weight log,Good
+553,Wednesday,prayer|fasting|Quran|podcast|News Update|reddit|streaming|youtube|penpal,Good
+554,Tuesday,fasting|Quran|podcast|Audio books|News Update|good meal|streaming|youtube|family|penpal,Good
+555,Tuesday,prayer|fasting|Quran|Audio books|News Update|penpal,Good
+556,Monday,podcast|Audio books|News Update|reddit|streaming|youtube|gaming|power nap|Email|designing|penpal|weight log,Good
+557,Sunday,News Update|gaming|songs,Normal
+558,Saturday,Dota 2|podcast|Audio books|News Update|good meal|reddit|streaming|youtube|Email|songs|designing|weight log,Awful
+559,Friday,prayer|fasting|walk|shower|News Update|good meal|reddit|streaming|youtube|movies|gaming|travel|family|Email|penpal,Good
+560,Thursday,News Update|reddit|streaming|youtube,Normal
+561,Wednesday,walk|podcast|Audio books|News Update|good meal|reddit|streaming|youtube|Email|designing|weight log,Normal
+562,Tuesday,walk|Dota 2|podcast|Audio books|News Update|good meal|reddit|streaming|youtube|Email|designing|weight log,Good
+563,Monday,shower|Dota 2|podcast|Audio books|Watching series|News Update|good meal|reddit|streaming|youtube|designing|weight log,Good
+564,Sunday,Dota 2|Audio books|News Update|good meal|reddit|youtube|designing|weight log,Good
+565,Saturday,fasting|podcast|News Update|reddit|streaming|youtube|penpal|weight log,Normal
+566,Friday,prayer|podcast|News Update|good meal|reddit|youtube|penpal,Normal
+567,Friday,prayer|News Update|good meal|reddit|streaming|youtube|penpal,Normal
+568,Thursday,Write dairy|meditation|shower|podcast|Audio books|Watching series|reddit|youtube|penpal,Good
+569,Wednesday,Write dairy|meditation|Dota 2|podcast|News Update|good meal|reddit|streaming|youtube|designing|penpal,Good
+570,Sunday,walk|Watching series|News Update|good meal|streaming|youtube|gaming|power nap|Email|designing|penpal,Good
+572,Wednesday,Dota 2|podcast|Watching series|News Update|good meal|reddit|streaming|youtube,Normal
+573,Tuesday,walk|Dota 2|podcast|News Update|good meal|reddit|streaming|youtube|movies|gaming|penpal,Good
+574,Monday,walk|meditation|Dota 2|podcast|Audio books|News Update|good meal|streaming|youtube|gaming|Email|penpal,Normal
+575,Sunday,prayer|walk|shower|good meal|reddit|streaming|youtube|movies|gaming|cleaning|power nap|Email|designing,Good
+576,Saturday,walk|Dota 2|News Update|good meal|streaming|youtube|penpal,Amazing
+577,Saturday,News Update,Normal
+578,Friday,Dota 2|podcast|News Update|good meal|youtube|gaming|family,Bad
+579,Thursday,meditation|podcast|News Update|good meal|youtube|gaming,Good
+580,Wednesday,podcast|good meal|reddit|youtube|gaming|Email,Good
+581,Tuesday,walk|meditation|podcast|Audio books|reddit|youtube|movies|gaming|Email,Good
+582,Monday,prayer|walk|meditation|shower|Dota 2|podcast|News Update|reddit|streaming|youtube|gaming|penpal,Good
+583,Sunday,walk|meditation|podcast|Audio books|News Update|good meal|streaming|youtube|gaming|penpal,Good
+584,Sunday,podcast|News Update|streaming|youtube|gaming,Good
+585,Saturday,walk|meditation|Dota 2|podcast|News Update|good meal|streaming|youtube|gaming|designing|penpal,Good
+586,Friday,prayer|Dota 2|podcast|News Update|good meal|streaming|youtube|movies|gaming,Normal
+587,Friday,meditation|News Update|good meal|streaming|youtube,Good
+588,Thursday,reading|walk|meditation|Dota 2|podcast|News Update|good meal|streaming|youtube|gaming|songs,Good
+589,Wednesday,meditation|Dota 2|News Update|good meal|streaming|youtube|gaming|power nap,Good
+590,Tuesday,reading|meditation|shower|podcast|News Update|good meal|streaming|youtube|gaming|penpal|weight log,Normal
+591,Monday,reading|walk|meditation|podcast|News Update|good meal|streaming|youtube|gaming|new things|songs|designing,Good
+592,Sunday,Dota 2|streaming|youtube,Awful
+593,Sunday,reading|meditation|podcast|News Update|good meal|streaming|youtube|new things|designing|penpal,Good
+594,Saturday,reading|meditation|Dota 2|podcast|Audio books|News Update|good meal|streaming|youtube|movies|gaming|new things|family|power nap|songs|designing|friends|penpal,Good
+595,Friday,reading|prayer|walk|meditation|shower|Dota 2|podcast|Audio books|Watching series|good meal|streaming|youtube|gaming,Good
+596,Thursday,walk|meditation|Dota 2|podcast|Audio books|News Update|good meal|streaming|youtube|gaming|Email|penpal,Good
+597,Wednesday,walk|meditation|Dota 2|podcast|Audio books|News Update|good meal|streaming|youtube|gaming|new things|designing,Good
+598,Tuesday,reading|meditation|News Update|good meal|streaming|youtube|gaming|designing,Good
+599,Monday,meditation|News Update|good meal|streaming|youtube|movies|designing,Good
+600,Sunday,reading|meditation|Dota 2|News Update|good meal|streaming|youtube,Good
+601,Saturday,reading|meditation|penpal,Good
+602,Friday,reading|prayer|meditation|shower|News Update|streaming|youtube|penpal,Good
+603,Thursday,Dota 2|News Update|good meal,Normal
+604,Thursday,meditation|Dota 2|News Update,Good
+605,Wednesday,meditation|shower|Dota 2|podcast|News Update|good meal|streaming|youtube|gaming|designing|penpal,Good
+606,Tuesday,Exercise|walk|meditation|podcast|Audio books|News Update|good meal|streaming|youtube|movies|Email|designing|penpal,Good
+607,Monday,meditation|podcast|Audio books|News Update|streaming|youtube|new things|Email|designing|jobs|weight log,Good
+608,Sunday,Dota 2|podcast|Audio books|News Update|good meal|streaming|youtube|designing|party|weight log,Good
+609,Sunday,meditation|News Update|weight log,Good
+610,Saturday,podcast|Audio books|Watching series|News Update|good meal|youtube|gaming|designing,Good
+611,Saturday,meditation|shower|Audio books|News Update|good meal|streaming|youtube|designing|penpal,Good
+612,Friday,reading|prayer|meditation|Audio books|Watching series|News Update|good meal|streaming|youtube|new things|Email|designing|jobs|weight log,Good
+613,Thursday,meditation|Dota 2|podcast|News Update|good meal|streaming|youtube|new things|Email|penpal,Good
+614,Wednesday,walk|Dota 2|podcast|Watching series|News Update|good meal|streaming|youtube|designing,Bad
+615,Wednesday,meditation|podcast|News Update|good meal|youtube|new things|Email|designing|penpal|jobs,Good
+616,Tuesday,meditation|Audio books|News Update|youtube|new things|designing,Good
+617,Monday,meditation|Audio books|News Update|good meal|youtube|power nap,Amazing
+618,Sunday,walk|meditation|Audio books|youtube|power nap,Good
+619,Saturday,Audio books|News Update|travel|family,Awful
+620,Saturday,meditation|podcast|Audio books|News Update|good meal|youtube|gaming|penpal|weight log,Good
+621,Friday,prayer|meditation|shower|Audio books|News Update|good meal|youtube|new things|weight log,Good
+622,Thursday,walk|shower|Audio books|good meal|gaming|travel|songs|designing,Good
+623,Thursday,meditation|shower|podcast|News Update|streaming|youtube|gaming|designing,Good
+624,Wednesday,meditation|Audio books|News Update|youtube|new things|designing|repair|penpal|weight log,Good
+625,Tuesday,reading|meditation|Audio books|good meal|youtube|gaming|new things|Email|designing,Good
+626,Monday,prayer|shower|Audio books|News Update|good meal|streaming|youtube|new things|designing,Good
+627,Monday,meditation|shower|Audio books|Watching series|News Update|good meal|youtube|gaming|designing|penpal,Amazing
+628,Sunday,meditation|Dota 2|podcast|Audio books|Watching series|News Update|good meal|youtube|gaming|Email|penpal|weight log,Normal
+629,Saturday,meditation|podcast|Audio books|good meal|streaming|gaming,Good
+630,Friday,prayer|meditation|Audio books|News Update,Good
+631,Thursday,fasting|walk|meditation|Audio books|News Update,Amazing
+632,Wednesday,fasting|meditation|Dota 2|podcast|Audio books|News Update|good meal|streaming|youtube|gaming|travel|penpal|party|weight log,Good
+633,Tuesday,meditation|podcast|Audio books|News Update|youtube|gaming|cleaning|Email|penpal|weight log,Good
+634,Monday,fasting|meditation|shower|Audio books|Watching series|News Update|youtube|gaming|designing|penpal|jobs|weight log,Good
+635,Sunday,reading|prayer|meditation|shower|Dota 2|podcast|Audio books|News Update|youtube|movies|weight log,Good
+636,Saturday,reading|meditation|Audio books|News Update|good meal|streaming|youtube|penpal|weight log,Good
+637,Friday,prayer|shower|Audio books|Watching series|News Update|youtube|gaming|penpal,Good
+638,Friday,meditation|podcast|Audio books|News Update|good meal|streaming|gaming,Normal
+639,Thursday,reading|meditation|podcast|Audio books|Watching series|News Update|good meal|youtube|gaming|Email|penpal,Good
+640,Wednesday,fasting|meditation|podcast|Audio books|News Update|good meal|Email|penpal,Good
+641,Tuesday,reading|meditation|Audio books|Watching series|News Update|streaming|youtube,Good
+642,Tuesday,reading|meditation|Audio books|penpal,Good
+643,Monday,reading|meditation|Watching series|News Update|good meal|streaming|youtube|penpal,Amazing
+644,Sunday,reading|meditation|Dota 2|podcast|Watching series|News Update|good meal|streaming|youtube|power nap,Good
+645,Saturday,reading|Write dairy|meditation|Watching series|good meal|streaming|youtube|movies|Email|penpal,Good
+646,Friday,reading|meditation|shower|News Update|research,Normal
+647,Thursday,reading|Audio books|streaming|youtube|movies,Good
+648,Thursday,reading|meditation|News Update|good meal,Good
+649,Wednesday,reading|meditation|shower|News Update|good meal|songs|penpal,Good
+650,Tuesday,reading|meditation|News Update|good meal|streaming|youtube|new things|designing|penpal,Good
+651,Monday,meditation|News Update|youtube|penpal,Good
+652,Monday,reading|meditation|Audio books|News Update|youtube|new things|penpal|weight log,Normal
+653,Sunday,reading|meditation|podcast|Audio books|News Update|good meal|streaming|youtube|gaming|new things|designing|penpal|weight log,Good
+654,Saturday,reading|walk|meditation|podcast|Audio books|News Update|youtube|movies|new things|Email|penpal|jobs|weight log,Good
+655,Friday,reading|prayer|meditation|shower|News Update|streaming|cleaning|weight log,Good
+656,Thursday,reading|fasting|meditation|Audio books|Watching series|good meal|streaming|youtube|movies|songs|penpal|weight log,Good
+657,Wednesday,reading|Write dairy|meditation|podcast|Watching series|News Update|youtube|gaming|cleaning|penpal|weight log,Good
+658,Tuesday,reading|meditation|podcast|Audio books|News Update|gaming|penpal|shopping,Good
+659,Monday,reading|fasting|meditation|News Update|penpal,Good
+660,Sunday,reading|Write dairy|meditation|shower|Dota 2|podcast|Audio books|News Update|streaming|youtube|research|power nap|Email|penpal,Good
+661,Saturday,reading|meditation|News Update|penpal,Good
+662,Friday,reading|meditation|News Update,Good
+663,Thursday,reading|walk|Watching series|youtube|Email|penpal,Good
+664,Thursday,meditation|penpal,Good
+665,Thursday,News Update|penpal,Normal
+666,Wednesday,shower|Watching series|good meal|streaming|youtube|new things|power nap|penpal,Good
+667,Wednesday,meditation|News Update|new things|penpal|weight log,Normal
+668,Tuesday,prayer|walk|podcast|power nap|penpal,Normal
+669,Tuesday,Exercise|meditation|podcast,Good
+670,Monday,podcast|streaming|youtube|gaming|penpal,Good
+671,Monday,meditation|power nap|songs,Normal
+672,Sunday,prayer|Audio books|youtube|new things|penpal,Good
+673,Sunday,meditation|News Update|penpal,Good
+674,Saturday,streaming|youtube|gaming|new things|power nap,Good
+675,Saturday,Write dairy|meditation|research|penpal|coding,Good
+676,Friday,meditation|Watching series|good meal|youtube|penpal|Tutorial,Good
+677,Tuesday,shower|Audio books|News Update|good meal|youtube,Normal
+678,Tuesday,youtube,Bad
+679,Tuesday,prayer,Bad
+680,Monday,prayer|walk|shower|Dota 2|podcast|Audio books|News Update|new things|Email|songs,Good
+681,Sunday,Dota 2|News Update|streaming|youtube,Good
+682,Sunday,News Update|penpal,Normal
+683,Friday,prayer|Dota 2|podcast|News Update,Good
+684,Thursday,News Update,Good
+685,Thursday,Dota 2,Awful
+686,Thursday,Audio books|News Update|power nap,Bad
+687,Wednesday,Dota 2|youtube,Bad
+688,Wednesday,Dota 2,Awful
+689,Wednesday,News Update|Email|penpal,Normal
+690,Tuesday,Dota 2|News Update|youtube,Good
+691,Tuesday,Dota 2|Watching series|good meal,Good
+692,Tuesday,Dota 2|podcast|Audio books|News Update|youtube|penpal,Normal
+693,Monday,walk|Dota 2|streaming|youtube|songs,Good
+694,Monday,News Update|good meal|youtube,Normal
+695,Monday,Watching series|News Update|good meal|youtube|penpal,Normal
+696,Sunday,walk|shower|Dota 2|podcast|Watching series|News Update|good meal|youtube|travel|new things|family|friends|penpal,Amazing
+697,Tuesday,Dota 2|podcast|good meal|streaming|youtube|weight log,Awful
+698,Monday,Dota 2|podcast|Audio books|streaming|youtube|weight log,Good
+700,Tuesday,shower|Dota 2|good meal|streaming|youtube|phd|jobs,Good
+702,Sunday,Dota 2,Bad
+703,Saturday,Dota 2,Awful
+704,Friday,fasting|Dota 2,Awful
+705,Friday,prayer|fasting|meditation|shower|streaming|youtube,Awful
+706,Thursday,meditation|shower|Dota 2|good meal|streaming|youtube|Email|weight log,Good
+707,Thursday,meditation|shower|weight log,Good
+708,Wednesday,meditation,Good
+710,Tuesday,reading|meditation|shower|Dota 2|podcast|Audio books|Watching series|streaming|youtube|family|Email,Good
+712,Sunday,reading|meditation|shower|Dota 2|Audio books|Watching series|streaming|youtube|movies|Email|songs|jobs|weight log,Normal
+713,Saturday,podcast|Audio books|Watching series|streaming|youtube|Email|songs|weight log,Good
+715,Friday,streaming|movies,Good
+716,Friday,reading|Write dairy|prayer|meditation|shower|Audio books|Watching series|streaming|youtube|movies|new things|Email|weight log,Good
+717,Thursday,Write dairy|meditation|streaming|youtube|cleaning,Good
+718,Wednesday,shower|streaming|youtube,Normal
+720,Tuesday,Audio books|Watching series|good meal|streaming|youtube|Email|party,Good
+721,Tuesday,reading|Write dairy|prayer|shower|Audio books|Watching series|new things|Email|weight log,Amazing
+722,Tuesday,Dota 2|podcast|Audio books|Watching series|streaming|youtube|Email,Normal
+723,Sunday,fasting|shower|Audio books|streaming|youtube|songs,Good
+724,Saturday,Write dairy|fasting|Audio books|streaming|youtube|Email|songs|weight log,Good
+725,Friday,prayer,Good
+726,Friday,Dota 2|streaming|youtube|songs,Good
+727,Wednesday,Watching series|streaming,Good
+728,Tuesday,Dota 2|Watching series,Good
+729,Sunday,streaming|youtube|movies,Bad
+730,Friday,Dota 2|Watching series|streaming|youtube|movies,Good
+732,Thursday,prayer|fasting|shower|Dota 2|youtube|power nap,Normal
+734,Wednesday,Email|jobs,Normal
+736,Tuesday,prayer|shower|Dota 2|Audio books,Good
+737,Tuesday,reading|fasting|shower|Dota 2|Audio books|youtube,Good
+738,Monday,Dota 2|youtube,Good
+739,Sunday,Dota 2|Audio books|streaming,Good
+740,Sunday,Dota 2|streaming,Good
+742,Saturday,prayer|fasting|Dota 2|Audio books|streaming,Good
+743,Saturday,meditation|shower|Dota 2|streaming,Good
+744,Monday,youtube|Email|jobs,Amazing
+745,Sunday,prayer|fasting|Dota 2|podcast|streaming|youtube|Email|jobs,Good
+746,Sunday,Dota 2|streaming|Email,Good
+748,Thursday,Email|jobs,Normal
+750,Wednesday,prayer|fasting|streaming|youtube,Good
+751,Wednesday,reading|Write dairy|fasting|meditation|shower|podcast|Audio books|weight log,Good
+752,Tuesday,prayer|Audio books|youtube,Good
+753,Tuesday,prayer|fasting|meditation|Dota 2|podcast|youtube,Good
+755,Monday,prayer|fasting|walk|podcast|Audio books|streaming|youtube|Email|songs,Good
+756,Monday,prayer|fasting|meditation|shower|Audio books|youtube|new things|Email,Good
+757,Thursday,Audio books,Good
+759,Wednesday,streaming|youtube|Email,Good
+760,Tuesday,prayer,Normal
+761,Tuesday,prayer|shower|youtube|Email|songs,Good
+763,Monday,podcast|Watching series|youtube,Good
+764,Monday,Dota 2|Audio books|youtube|Email,Good
+766,Sunday,streaming,Good
+767,Sunday,Audio books|youtube|research,Normal
+769,Saturday,Watching series|streaming|youtube|research,Good
+770,Saturday,Dota 2|Watching series|streaming|youtube,Normal
+772,Friday,Dota 2|podcast|Watching series|streaming|youtube,Good
+773,Friday,prayer|shower|streaming|youtube|research|new things|weight log,Good
+775,Thursday,prayer|shower|Dota 2|podcast|youtube,Good
+776,Thursday,Watching series|good meal|youtube|Email,Normal
+778,Wednesday,Dota 2|streaming|youtube,Awful
+779,Wednesday,streaming|youtube|Email,Awful
+780,Wednesday,youtube|Email,Bad
+782,Tuesday,Watching series|good meal|streaming|youtube|research,Normal
+783,Tuesday,reading|Write dairy|youtube|research,Bad
+785,Monday,meditation|shower|podcast|Watching series|good meal|streaming|youtube|Email|designing,Good
+788,Sunday,Write dairy|Watching series|good meal|streaming|youtube|new things,Good
+790,Saturday,Watching series|good meal|streaming|youtube|Email,Good
+791,Friday,Dota 2,Normal
+792,Friday,good meal|streaming|youtube|Email|phd|jobs,Amazing
+793,Thursday,Dota 2|good meal|streaming|youtube|Email,Good
+794,Wednesday,prayer|Dota 2|Watching series|streaming|youtube|movies|Email,Good
+796,Monday,Watching series|streaming|youtube,Good
+797,Monday,Dota 2|Watching series|streaming|youtube,Good
+798,Monday,power nap,Normal
+799,Sunday,Dota 2|Watching series|streaming|youtube,Normal
+800,Sunday,good meal|streaming|youtube|research|Email|jobs,Normal
+803,Friday,Dota 2,Awful
+804,Friday,prayer|shower|Dota 2|streaming|youtube|new things,Good
+805,Friday,shower|power nap,Good
+806,Monday,Dota 2|podcast|Audio books|streaming|youtube|songs,Bad
+808,Saturday,Dota 2|good meal|streaming|travel,Normal
+809,Friday,prayer|Dota 2|good meal|streaming,Good
+811,Thursday,streaming,Bad
+813,Wednesday,Dota 2|streaming,Awful
+814,Tuesday,good meal|streaming|travel,Bad
+815,Sunday,shower|streaming|youtube|gaming|new things,Good
+820,Friday,prayer|shower|Audio books|streaming|youtube|new things|weight log,Amazing
+823,Thursday,prayer|shower|streaming,Good
+824,Thursday,meditation|Dota 2|good meal|streaming|youtube|songs,Good
+825,Wednesday,Dota 2|good meal|streaming|youtube,Amazing
+827,Wednesday,Write dairy|walk|meditation|Audio books|new things|songs,Good
+828,Tuesday,Write dairy|shower|Dota 2|Audio books|good meal|streaming|youtube|family|jobs,Good
+829,Tuesday,Dota 2|streaming|youtube|research|Email,Normal
+831,Monday,Dota 2|streaming,Good
+832,Monday,streaming,Bad
+834,Saturday,Watching series|streaming|youtube,Good
+835,Friday,travel,Amazing
+836,Friday,Watching series|youtube,Good
+837,Friday,Dota 2|streaming|youtube,Good
+838,Thursday,Dota 2|streaming|youtube,Good
+839,Thursday,shower|good meal|streaming|youtube|Email,Amazing
+842,Wednesday,walk|meditation|streaming|youtube,Good
+845,Tuesday,Dota 2|streaming|youtube|research,Bad
+846,Monday,Dota 2,Amazing
+847,Monday,prayer|Watching series|streaming|youtube|new things|Email,Amazing
+848,Sunday,meditation|shower|Dota 2|streaming|research|new things,Good
+849,Saturday,streaming|youtube,Normal
+850,Saturday,movies,Normal
+851,Friday,Dota 2|streaming,Good
+852,Friday,shower|good meal|travel|cleaning|Email,Good
+853,Wednesday,Dota 2|youtube|Email,Good
+854,Wednesday,Email,Good
+857,Sunday,Dota 2|Watching series|streaming|youtube,Good
+858,Saturday,coding|Tutorial,Good
+859,Saturday,cleaning|power nap,Normal
+860,Friday,walk,Normal
+861,Thursday,Dota 2|Watching series|streaming|youtube|coding|Tutorial,Good
+862,Thursday,walk|Watching series|power nap,Good
+863,Wednesday,Watching series|research|power nap,Bad
+864,Wednesday,Dota 2,Bad
+865,Tuesday,Dota 2|youtube|Email,Normal
+866,Monday,Dota 2|streaming|youtube,Awful
+867,Monday,Dota 2,Good
+868,Monday,Dota 2,Awful
+869,Sunday,Dota 2|streaming,Amazing
+870,Sunday,Dota 2|streaming|youtube|power nap,Good
+871,Saturday,Dota 2|streaming|youtube,Good
+872,Saturday,streaming|youtube|research|new things|Email|phd,Amazing
+873,Saturday,prayer|streaming|youtube|power nap,Good
+874,Friday,streaming|youtube|movies|research|Email|phd,Good
+875,Friday,power nap,Good
+876,Thursday,Dota 2|streaming|youtube,Bad
+877,Thursday,shower|good meal|streaming|youtube|weight log,Normal
+878,Thursday,Dota 2|good meal|streaming|youtube|power nap,Normal
+879,Wednesday,prayer|power nap,Good
+880,Tuesday,Dota 2|good meal|streaming|youtube|movies|gaming|weight log,Good
+881,Monday,Dota 2|streaming|cleaning|Email,Amazing
+882,Monday,youtube|power nap,Good
+883,Monday,reading|prayer|research|new things|power nap,Amazing
+884,Sunday,Dota 2|streaming|youtube|movies,Amazing
+885,Sunday,prayer|walk|good meal|youtube|movies|power nap|songs|friends,Good
+886,Saturday,prayer|Dota 2|Watching series|good meal|streaming|youtube,Good
+887,Saturday,prayer|power nap,Bad
+888,Thursday,shower|Watching series|youtube|movies|power nap,Normal
+889,Wednesday,youtube|power nap,Normal
+890,Wednesday,Watching series|streaming|youtube|power nap,Good
+891,Tuesday,walk|Dota 2|Audio books|Watching series|streaming|youtube,Normal
+892,Tuesday,prayer|Watching series|youtube|power nap,Normal
+893,Monday,Dota 2|Watching series|streaming|youtube|designing,Good
+894,Monday,walk|Audio books|Watching series,Good
+895,Sunday,Dota 2|youtube|gaming,Good
+896,Sunday,Write dairy|prayer|shower|Dota 2|good meal|streaming|youtube|research|power nap,Good
+897,Saturday,streaming|youtube|research|power nap|songs|designing,Good
+898,Saturday,walk|meditation|Dota 2|travel,Good
+899,Saturday,prayer,Good
+900,Friday,prayer|shower|Dota 2|good meal|youtube|family,Normal
+901,Thursday,youtube|power nap,Normal
+902,Thursday,prayer|fasting|Dota 2|streaming|youtube,Normal
+903,Wednesday,walk|youtube|songs,Awful
+904,Wednesday,Dota 2|youtube|gaming|research,Awful
+905,Wednesday,Dota 2|youtube|gaming,Awful
+906,Wednesday,prayer|youtube|weight log,Awful
+907,Tuesday,Dota 2|family|Email,Awful
+908,Tuesday,good meal|youtube|Email,Awful
+909,Tuesday,walk|meditation|travel|Email,Normal
+910,Monday,Dota 2|streaming|youtube|new things|family|Email|songs,Awful
+911,Monday,Dota 2|streaming|songs,Good
+912,Monday,Dota 2|streaming|youtube,Amazing
+913,Sunday,prayer|walk|meditation|shower|Dota 2|good meal|streaming|youtube,Good
+914,Sunday,fasting|meditation|Dota 2|streaming|youtube|new things|weight log,Good
+915,Sunday,Dota 2|youtube|power nap,Normal
+916,Saturday,reading|walk|Audio books|good meal|travel|research|songs,Amazing
+917,Saturday,Dota 2|streaming|youtube,Awful
+918,Saturday,Write dairy|Dota 2|research|Email,Good
+919,Friday,walk|Audio books|Email|songs,Good
+920,Friday,prayer|streaming|youtube|travel|research|new things,Normal
+921,Friday,Dota 2|streaming|youtube,Normal
+922,Thursday,walk|Audio books|youtube|travel,Amazing
+923,Thursday,good meal|streaming|youtube|Email|shopping,Good
+924,Thursday,reading|travel|research|Email,Good
+925,Wednesday,good meal|travel|research|hospital|weight log,Normal
+926,Wednesday,walk|Audio books|research|family|hospital,Bad
+927,Wednesday,Dota 2|Watching series|youtube|travel|family|hospital,Good
+928,Wednesday,prayer|fasting|Dota 2|youtube|power nap,Awful
+929,Tuesday,Dota 2|streaming|family,Bad
+930,Tuesday,fasting|Dota 2|Watching series|good meal|weight log,Normal
+931,Tuesday,fasting|walk|meditation|travel|hospital,Bad
+932,Monday,prayer|Watching series,Normal
+933,Monday,reading|shower|good meal|youtube|new things|power nap|weight log,Amazing
+934,Monday,fasting|walk|meditation|youtube,Good
+935,Sunday,Write dairy|walk|meditation|Audio books|good meal|streaming|youtube|new things,Good
+936,Sunday,meditation|youtube|research,Normal
+937,Sunday,prayer|good meal|youtube|movies,Good
+938,Saturday,Write dairy|Dota 2|streaming|shopping,Awful
+939,Saturday,walk|meditation|Dota 2|Audio books|streaming|travel|research|new things,Normal
