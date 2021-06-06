@@ -8,14 +8,15 @@ class Data:
 
         with open(activityList, 'r') as file:
             string = file.read()
-            self.activityList = string.split("|")
+            self.activitySet = set(string.split("|"))
 
         self.classLabel = self.training.columns[-1]
         self.classMap = {
-            'Amazing': 5,
-            'Good': 4,
-            'Normal': 3,
-            'Bad': 2,
-            'Awful': 1
+            'Amazing': 4,
+            'Good': 3,
+            'Normal': 2,
+            'Bad': 1,
+            'Awful': 0
         }
+        self.classMapReverse = ['Awful','Bad','Normal','Good','Amazing']
 
