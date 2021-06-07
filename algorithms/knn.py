@@ -86,15 +86,15 @@ for i in np.arange(1, 21):
     error = 0
     accuracy = 100
     for j in np.arange(knn.data.validation.shape[0]):
-        print(f"== j={j}/{knn.data.validation.shape[0]} (k={i}/20)")
+        print(f"== j={j+1}/{knn.data.validation.shape[0]} (k={i}/20)")
         response = knn.run(knn.data.validation.iloc[j])
         error += response
     accuracy -= error
     error /= knn.data.validation.shape[0]
-    result = [i, error, accuracy]
+    result = [i, accuracy]
     r.append(result)
 
-results = pd.DataFrame(r, columns=['k', 'error', 'accuracy'])
+results = pd.DataFrame(r, columns=['k', 'accuracy'])
 print(results)
-sns.relplot(x='k', y='error', kind='line', data=results)
+sns.relplot(x='k', y='accuracy', kind='line', data=results)
 plt.show()
