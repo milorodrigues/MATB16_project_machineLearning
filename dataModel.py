@@ -18,5 +18,6 @@ class Data:
             'Bad': 1,
             'Awful': 0
         }
-        self.classMapReverse = ['Awful','Bad','Normal','Good','Amazing']
 
+    def getActivitySet(self, instance):
+        return set(instance['activities'].split("|"))

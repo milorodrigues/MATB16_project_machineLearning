@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\Daylio_Abid.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="|" />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\data\preprocessed_data_all.csv">
           <value>
             <Attribute>
@@ -17,28 +10,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\data\preprocessed_data_testing.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="|" />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\data\preprocessed_data_training.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="|" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\healthcare-dataset-stroke-data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\preprocessed_data.csv">
           <value>
             <Attribute>
               <option name="separator" value="|" />

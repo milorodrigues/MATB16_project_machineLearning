@@ -12,13 +12,13 @@ class KNN_similarity:
     def __init__(self, k):
         self.k = k
 
-        self.data = dataModel.Data('data/preprocessed_data_training.csv', 'data/preprocessed_data_validation.csv',
-                                   'data/activities.txt')
+        self.data = dataModel.Data('../data/preprocessed_data_training.csv', '../data/preprocessed_data_validation.csv',
+                                   '../data/activities.txt')
 
     def similarity(self, a, b):
         similarity = 0
-        activitiesA = self.getActivitySet(a)
-        activitiesB = self.getActivitySet(b)
+        activitiesA = self.data.getActivitySet(a)
+        activitiesB = self.data.getActivitySet(b)
 
         if a['weekday'] == b['weekday']:
             similarity += 1
@@ -88,8 +88,8 @@ for i in np.arange(1, 21):
     for j in np.arange(knn.data.validation.shape[0]):
         print(f"== j={j}/{knn.data.validation.shape[0]} (k={i}/20)")
         response = knn.run(knn.data.validation.iloc[j])
-        error += pow(response, 2)
-        accuracy -= response
+        error += response
+    accuracy -= error
     error /= knn.data.validation.shape[0]
     result = [i, error, accuracy]
     r.append(result)
