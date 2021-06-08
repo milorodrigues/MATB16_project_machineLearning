@@ -6,7 +6,7 @@ import tree_model
 import tree_entropy
 
 sns.set()
-model = tree_model.Model(3)
+model = tree_model.Model(10)
 model.root.printRecursive()
 
 
