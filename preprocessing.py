@@ -102,10 +102,6 @@ intendedCols = ['Amazing', 'Good', 'Normal', 'Bad', 'Awful']
 classCorrelationPearson.drop(columns=[col for col in classCorrelationPearson if col not in intendedCols], inplace=True)
 classCorrelationPearson.to_csv('data/activitiesToClass_correlation.csv')
 
-
-
-
-
 countingActivities = []
 for a in activities:
     count = 0
