@@ -12,6 +12,7 @@ class Data:
             self.activitySet = set(string.split("|"))
 
         self.classLabel = self.training.columns[-1]
+        self.labels = ['Amazing', 'Good', 'Normal', 'Bad', 'Awful']
         self.classMap = {
             'Amazing': 4,
             'Good': 3,

@@ -24,7 +24,7 @@ class Network:
 
     def train(self, epoch):
         for i in np.arange(self.data.training.shape[0]):
-            print(f"[[5C]] Training instance {i+1}/{self.data.training.shape[0]} => Epoch {epoch}/{self.epochs}")
+            #print(f"[[5C]] Training instance {i+1}/{self.data.training.shape[0]} => Epoch {epoch}/{self.epochs}")
             instance = self.data.training.iloc[i]
 
             rList = [0, 0, 0, 0]
@@ -35,7 +35,7 @@ class Network:
     def validate(self, epoch):
         accuracy = 0
         for i in np.arange(self.data.validation.shape[0]):
-            print(f"[[5C]] Training instance {i+1}/{self.data.validation.shape[0]} => Epoch {epoch}/{self.epochs}")
+            print(f"[[5C]] Validating instance {i+1}/{self.data.validation.shape[0]} => Epoch {epoch}/{self.epochs}")
             instance = self.data.validation.iloc[i]
             expected = self.data.classMap[instance['mood']]
 
@@ -64,3 +64,40 @@ class Network:
 
         analysisDF = pd.DataFrame(analysis, columns=['epoch', 'classified correctly'])
         return analysisDF
+
+    def analyze2(self):
+        for e in np.arange(1, self.epochs + 1):
+            print(f"=>>>>>> [[5C]] Epoch {e}/{self.epochs}")
+            self.train(e)
+        self.validate2()
+        return
+
+    def validate2(self):
+        dChosen = [0, 0, 0, 0, 0]
+        dExpected = [0, 0, 0, 0, 0]
+        accuracy = 0
+        for i in np.arange(self.data.validation.shape[0]):
+            print(f"[[5C]] Validating instance {i + 1}/{self.data.validation.shape[0]}")
+            instance = self.data.validation.iloc[i]
+            expected = self.data.classMap[instance['mood']]
+
+            rList = [0, 0, 0, 0]
+            for p in self.perceptrons:
+                rList[p.threshold - 1] = p.validateInstance(instance)
+
+            result = 0
+            for r in rList:
+                if r > 0:
+                    result += 1
+                else:
+                    break
+
+            if result == expected:
+                accuracy += 1
+            dChosen[result] += 1
+            dExpected[expected] += 1
+
+        print(f"accuracy = {accuracy}")
+        print(f"dChosen = {dChosen}")
+        print(f"dExpected = {dExpected}")
+        return

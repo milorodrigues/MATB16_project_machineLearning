@@ -5,9 +5,6 @@ import matplotlib.pyplot as plt
 import dataModel
 
 
-sns.set()
-
-
 class KNN_similarity:
     def __init__(self, k):
         self.k = k
@@ -40,24 +37,8 @@ class KNN_similarity:
         for i in np.arange(self.data.training.shape[0]):
             similarities[i] = self.similarity(instance, self.data.training.iloc[i])
         return np.argsort(similarities)[::-1][:self.k]
-    """
-    def run(self, instance):
-        response = {
-            'result': 0,
-            'expected': self.data.classMap[instance['mood']]
-        }
-        neighbors = self.knn(instance)
-        for n in neighbors:
-            response['result'] += self.data.classMap[self.data.training.iloc[n]['mood']]
-        response['result'] /= self.k
-        #if round(response['result']) == response['expected']:
-        #    response['result'] = response['expected']
-        response['result'] = round(response['result'])
-        return response
-    """
 
     def run(self, instance):
-        expected = instance['mood']
         neighbors = self.knn(instance)
         count = {
             'Amazing': 0,
@@ -66,35 +47,73 @@ class KNN_similarity:
             'Bad': 0,
             'Awful': 0
         }
+
         for n in neighbors:
             count[self.data.training.iloc[n]['mood']] += 1
+
         result = max(count, key=lambda key: count[key])
-        if expected == result:
-            return 0
-        else:
-            return 1
+        return result
 
     def getActivitySet(self, instance):
         return set(instance['activities'].split("|"))
 
 
+
+sns.set()
 knn = KNN_similarity(0)
-r = []
-for i in np.arange(1, 21):
-    print(f"===== Starting k = {i} out of 20")
-    knn.k = i
-    error = 0
+
+
+def runKNNmultiK(k):
+    r = []
+    for i in np.arange(1, k):
+        print(f"===== Starting k = {i} out of {k}")
+        knn.k = i
+        accuracy = 0
+        for j in np.arange(knn.data.validation.shape[0]):
+            print(f"== j={j+1}/{knn.data.validation.shape[0]} (k={i}/{k})")
+            expected = knn.data.validation.iloc[j]['mood']
+            response = knn.run(knn.data.validation.iloc[j])
+            if expected == response:
+                accuracy += 1
+        result = [i, accuracy]
+        r.append(result)
+
+    results = pd.DataFrame(r, columns=['k', 'accuracy'])
+    print(results)
+    plot = sns.relplot(x='k', y='accuracy', kind='line', data=results)
+    plot.set(ylim=(0, 100))
+    plt.show()
+    return
+
+
+def runKNNsingle(k):
+    dChosen = {
+            'Amazing': 0,
+            'Good': 0,
+            'Normal': 0,
+            'Bad': 0,
+            'Awful': 0
+        }
+    dExpected = {
+            'Amazing': 0,
+            'Good': 0,
+            'Normal': 0,
+            'Bad': 0,
+            'Awful': 0
+        }
+    knn.k = k
     accuracy = 100
     for j in np.arange(knn.data.validation.shape[0]):
-        print(f"== j={j+1}/{knn.data.validation.shape[0]} (k={i}/20)")
+        expected = knn.data.validation.iloc[j]['mood']
+        print(f"== j={j+1}/{knn.data.validation.shape[0]}")
         response = knn.run(knn.data.validation.iloc[j])
-        error += response
-    accuracy -= error
-    error /= knn.data.validation.shape[0]
-    result = [i, accuracy]
-    r.append(result)
+        if response != expected:
+            accuracy -= 1
+        dChosen[response] += 1
+        dExpected[expected] += 1
+    print(f"accuracy = {accuracy}")
+    print(f"dChosen = {dChosen}")
+    print(f"dExpected = {dExpected}")
 
-results = pd.DataFrame(r, columns=['k', 'accuracy'])
-print(results)
-sns.relplot(x='k', y='accuracy', kind='line', data=results)
-plt.show()
+
+runKNNsingle(16)

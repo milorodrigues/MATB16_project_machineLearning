@@ -6,7 +6,7 @@ import tree_model
 import tree_entropy
 
 sns.set()
-model = tree_model.Model(10)
+model = tree_model.Model(8)
 model.root.printRecursive()
 
 
@@ -28,6 +28,20 @@ analysis = {
     'incorrect': 0,
     'failed': 0
 }
+dChosen = {
+            'Amazing': 0,
+            'Good': 0,
+            'Normal': 0,
+            'Bad': 0,
+            'Awful': 0
+        }
+dExpected = {
+        'Amazing': 0,
+        'Good': 0,
+        'Normal': 0,
+        'Bad': 0,
+        'Awful': 0
+    }
 results = []
 for i in np.arange(model.data.validation.shape[0]):
     print(f"Validating {i+1} out of {model.data.validation.shape[0]}")
@@ -41,22 +55,9 @@ for i in np.arange(model.data.validation.shape[0]):
         analysis['correct'] += 1
     else:
         analysis['incorrect'] += 1
+    dChosen[result] += 1
+    dExpected[expected] += 1
 print(analysis)
 print(results)
-
-
-
-# e = tree_entropy.entropy2({'Amazing': 116, 'Good': 303, 'Normal': 110, 'Bad': 31, 'Awful': 35}, ['Amazing', 'Good', 'Normal', 'Bad', 'Awful'])
-# print(e)
-
-# print(model.data.training.iloc[84])
-# test = model.data.training.iloc[84]
-# print(test['activities'])
-# print('youtube' in test['activities'])
-# print('prayer' in test['activities'])
-
-# print(model.data.validation.iloc[15])
-# test = model.data.validation.iloc[15]
-# print(test['activities'])
-# print('youtube' in test['activities'])
-# print('language learning' in test['activities'])
+print(f"dChosen = {dChosen}")
+print(f"dExpected = {dExpected}")
